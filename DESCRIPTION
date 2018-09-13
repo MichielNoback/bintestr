@@ -1,0 +1,17 @@
+Package: bintestr
+Type: Package
+Title: The BioINformatics automated TESTing environment for R
+Version: 0.0.0.9000
+Authors@R: person("Michiel", "Noback", email = "michiel.noback@gmail.com", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Depends: R (>= 3.5.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+VignetteBuilder: knitr
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat
