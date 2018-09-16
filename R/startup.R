@@ -38,6 +38,8 @@
 #'
 #' - \code{next.question()} - Will proceed to the next question
 #'
+#' - \code{bye()} - Saves your progress and quits.
+#'
 #' @export
 instructions <- function() {
     message("There are only a few functions needed to navigate these assignments;")
