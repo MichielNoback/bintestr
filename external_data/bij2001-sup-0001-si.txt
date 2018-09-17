@@ -1,0 +1,1570 @@
+Boidae
+Species SVL (mm) Mass (g) Source
+Boa constrictor 1662 5647 Zoological garden
+Candoia aspera 541 293 Johnson (1975)
+Candoia bibroni 480 45.2 Tel Aviv University Museum (TAUM)
+Candoia carinata 518.5 93 Johnson (1975)
+Corallus caninus 957.5 586.5 Tiffany Doan
+Corallus cookii 812 210 Henderson & Winstel (1995)
+Corallus hortulanus 1021 207 Tiffany Doan
+Epicrates cenchria 888 830 Vitt & Valdinger (1983), Tiffany Doan
+Epicrates inornatus 1426.9 1058.9 Wiley (2003)
+Epicrates maurus 1270 1767 Zoological garden
+Eryx conicus 240 15.9 TAUM
+Eryx jaculus 552.5 134.5 TAUM, zoological garden
+Eryx johnii 820 531 Zoological garden
+Eunectes murinus 2088 5900 Rivas (2000)
+Lichanura trivirgata 597 170.7 Rodriguez-Robles et al. (1999)
+Colubridae
+Species SVL (mm) Mass (g) Source
+Amphiesma metusia 663 134 Inger et al. (1990)
+Amphiesma sauteri 292.7 14 Inger et al. (1990)
+Apostolepis albicollaris 267 4 França et al. (2008)
+Apostolepis ammodites 232 2 França et al. (2008)
+Apostolepis assimilis 228 4 França et al. (2008)
+Apostolepis flavotorquata 460 20 França et al. (2008)
+Atractus badius 271 8 Tiffany Doan
+Atractus major 403 23 Tiffany Doan
+Atractus pantostictus 269 15 França et al. (2008)
+Atractus snethlageae 282.5 7.75 Tiffany Doan
+Bogertophis subocularis 1200 213.4 Moon & Candy (1997)
+Boiga ceylonensis 360 5.9 TAUM
+Boiga irregularis 1084 146.9 Aldridge et al. (2010)
+Boiruna maculata 1280 823.5 Vitt & Valdinger (1983)
+Borikenophis portoricensis 569.3 64 Barun et al. (2007)
+Chironius exoletus 807 147 França et al. (2008)
+Chironius flavolineatus 675 89 França et al. (2008)
+Chironius fuscus 704.5 69.5 Tiffany Doan
+Chironius multiventris 1695 650 Tiffany Doan
+Chironius quadricarinatus 599 58 França et al. (2008)
+Chironius scurrulus 1340 750 Tiffany Doan
+Chrysopelea ornata 768 105 Moon & Candy (1997)
+Clelia clelia 1640.7 2050 Tiffany Doan
+Clelia plumbea 1401 600 França et al. (2008)
+Coluber constrictor 765 121 Ford et al. (1990)
+Coluber elegantissimus 461.6 21.7 TAUM
+Coluber flagellum 1160 322 Ford et al. (1990)
+Coluber sinai 403 19.1 TAUM
+SNAKE LENGTH–MASS ALLOMETRY 1APPENDIX S1 Continued
+Species SVL (mm) Mass (g) Source
+Crotaphopeltis hotamboeia 400 13.8 TAUM
+Dasypeltis scabra 356.7 15.7 Jacobsen (1982)
+Dendrelaphis punctulatus 1006 166.3 Shine (1991)
+Dendrophidion dendrophis 422 20.25 Tiffany Doan
+Diadophis punctatus 459.3 19 Parker & Brown (1974)
+Dipsas catesbyi 397.5 11.3 Tiffany Doan
+Dipsas indica 308 4.5 Tiffany Doan
+Dipsas variegata 670 46.7 Tiffany Doan
+Dispholidus typus 856 153 TAUM
+Dolichophis jugularis 1220.4 692 TAUM, zoological garden
+Drepanoides anomalus 438.8 28.6 Tiffany Doan
+Drymarchon corais 1249 829 França et al. (2008)
+Drymarchon couperi 1449 1759 Stevenson et al. (2003)
+Drymobius rhombifer 516.5 55.2 Tiffany Doan
+Drymoluber brazili 493 86 França et al. (2008)
+Drymoluber dichrous 704.7 119.3 Tiffany Doan
+Eirenis coronella 207.5 6.1 TAUM
+Eirenis coronelloides 200 4.3 TAUM
+Eirenis decemlineatus 493.3 29.4 TAUM
+Eirenis modestus 350 15.5 TAUM
+Eirenis rothii 177 1.6 TAUM
+Elaphe carinata 832 169.5 Moon & Candy (1997)
+Elaphe climacophora 1155.8 331.4 Hasegawa & Moriguchi (1989)
+Elaphe quadrivirgata 860.1 188.7 Hasegawa & Moriguchi (1989);
+Tanaka (2011); Tanaka & Ota
+(2002)
+Elaphe sauromates 1363 993 TAUM, zoological garden
+Erythrolamprus aesculapii 426 40 França et al. (2008)
+Erythrolamprus bizonus 716 124.5 Moon & Candy (1997)
+Gomesophis brasiliensis 289 23 França et al. (2008)
+Helicops angulatus 306.5 39.4 Tiffany Doan
+Helicops leopardinus 240 24 França et al. (2008)
+Helicops modestus 285 35 França et al. (2008)
+Hemorrhois nummifer 854 230 TAUM, zoological garden
+Heterodon platirhinos 660 280 Ford et al. (1990)
+Imantodes cenchoa 685 16.4 Tiffany Doan
+Imantodes lentiferus 643.8 14.5 Tiffany Doan
+Lampropeltis nigra 651.7 152.5 Faust & Blomquist (2011)
+Leptodeira annulata 486.5 29.9 Tiffany Doan
+Leptophis ahaetulla 733.7 68.3 Moon & Candy (1997)
+Leptophis mexicanus 655 43.1 Moon & Candy (1997)
+Liophis almadensis 285 14 França et al. (2008)
+Liophis lineatus 423.5 26.5 Vitt (1983)
+Liophis maryellenae 305 23 França et al. (2008)
+Liophis mossoroensis 449.5 50.75 Vitt (1983)
+Liophis poecilogyrus 371.5 40.1 Vitt (1983)
+Liophis reginae 438.5 36 Tiffany Doan
+Liophis typhlus 549 54 Moon & Candy (1997), Tiffany Doan
+Liophis viridis 353 20.7 Vitt (1983)
+Lygophis meridionalis 444 26 França et al. (2008)
+Lygophis paucidens 369 20 França et al. (2008)
+Lytorhynchus diadema 350 12.8 TAUM
+Macroprotodon cucullatus 363.3 16.6 TAUM
+Mastigodryas bifossatus 1017 523 França et al. (2008)
+2 A. FELDMAN and S. MEIRIAPPENDIX S1 Continued
+Species SVL (mm) Mass (g) Source
+Mussurana quimi 493 89 França et al. (2008)
+Natrix maura 483 44.4 TAUM
+Natrix natrix 320 13 TAUM
+Natrix tessellata 535.6 79.5 TAUM, zoological garden
+Nerodia fasciata 640 283 Ford et al. (1990)
+Nerodia paucimaculata 596.1 88.7 Greene et al. (1999)
+Nerodia rhombifer 860.4 556.9 Secor & Nagy (2003)
+Nerodia sipedon 485 118.2 King et al. (1999); Queral-Regil &
+King (1998); Weatherhead et al.
+(1995)
+Ninia hudsoni 333.5 14.6 Tiffany Doan
+Opheodrys aestivus 485 17 Ford et al. (1990)
+Orthriophis taeniurus 755 76.2 Moon & Candy (1997)
+Oxybelis aeneus 836 57.5 Vitt & Valdinger (1983)
+Oxyrhopus formosus 575.1 51.2 Tiffany Doan
+Oxyrhopus guibei 439 43 França et al. (2008)
+Oxyrhopus petolarius 550.8 29.6 Tiffany Doan
+Oxyrhopus rhombifer 312 21 França et al. (2008)
+Oxyrhopus trigeminus 455.3 41.3 França et al. (2008); Vitt &
+Valdinger (1983)
+Pantherophis alleghaniensis 1185 246 TAUM
+Pantherophis guttatus 1216 695 Zoological garden
+Phalotris lativittatus 700 62 Braz et al. (2009)
+Phalotris nasutus 518 58 França et al. (2008)
+Philodryas aestivus 504 47 França et al. (2008)
+Philodryas chamissonis 715 145.3 TAUM
+Philodryas nattereri 771 170.5 Vitt & Valdinger (1983)
+Philodryas olfersii 685.5 91.5 Vitt & Valdinger (1983)
+Philodryas patagoniensis 677 168 França et al. (2008)
+Philodryas psammophidea 454 50 França et al. (2008)
+Philodryas viridissima 774 155.4 Moon & Candy (1997)
+Philothamnus semivariegatus 440.2 34.4 Jacobsen (1982)
+Phimophis guerini 476 87 França et al. (2008)
+Phyllorhynchus decurtatus 435 22.6 TAUM
+Plagiopholis tyani 305.5 26 Inger et al. (1990)
+Platyceps collaris 695.4 63.6 TAUM, zoological garden
+Platyceps florulentus 283.3 11.5 TAUM
+Platyceps rhodorachis 780.8 56.6 TAUM
+Platyceps rogersi 530.3 35.9 TAUM
+Pseudablabes agassizii 261 16 França et al. (2008)
+Pseudoboa coronate 567.6 62.8 Tiffany Doan
+Pseudoboa nigra 616.5 134 Vitt & Valdinger (1983)
+Regina grahami 567.5 90.6 Seigel (1992)
+Rhabdophis nuchalis 419.5 32.5 Inger et al. (1990)
+Rhabdophis tigrinus 786.1 189.3 Tanaka & Ota (2002)
+Rhachidelus brazili 786 561 França et al. (2008)
+Rhinobothryum lentiginosum 919 89.5 Tiffany Doan
+Rhynchocalamus
+melanocephalus
+340 10 TAUM
+Seminatrix pygaea 224 9 Winne et al. (2005)
+Sibon nebulatus 372 13.9 Moon & Candy (1997)
+Sibynomorphus mikanii 270 12 França et al. (2008)
+Simophis rhinostoma 449 32 França et al. (2008)
+Spalerosophis diadema 854.6 211.2 TAUM, zoological garden
+SNAKE LENGTH–MASS ALLOMETRY 3APPENDIX S1 Continued
+Species SVL (mm) Mass (g) Source
+Spilotes pullatus 1404 552.5 Vitt & Valdinger (1983)
+Stegonotus cucullatus 1040 298 Shine (1991)
+Storeria dekayi 229.8 4.7 Ford et al. (1990)
+Storeria occipitomaculata 230.5 7.3 Ford et al. (1990)
+Tachymenis peruviana 346 29.2 Tiffany Doan
+Tantilla coronata 188.5 2.5 Semlitsch et al. (1981); Todd et al.
+(2008)
+Tantilla gracilis 133.8 1.6 Cobb (2004)
+Tantilla melanocephala 228 7 França et al. (2008)
+Telescopus dhara 731 82 TAUM
+Telescopus fallax 488 33.2 TAUM
+Telescopus hoogstraali 658.3 74.6 TAUM
+Telescopus semiannulatus 400 9.5 TAUM
+Thamnodynastes hypoconia 317.7 20.4 França et al. (2008); Vitt &
+Valdinger (1983)
+Thamnodynastes pallidus 585 53 Vitt & Valdinger (1983)
+Thamnodynastes rutilus 275 21 França et al. (2008)
+Thamnophis butleri 381 24.8 Ford & Killebrew (1983)
+Thamnophis couchii 510.6 61 Lind & Welsh (1990)
+Thamnophis marcianus 521 90 Ford & Karges (1987)
+Thamnophis proximus 635.3 58.9 Lancaster & Ford (2003)
+Thamnophis radix 435.6 50.9 King et al. (1999)
+Thamnophis scalaris 395 42 Manjarrez et al. (2007)
+Thamnophis sirtalis 549.4 104.2 King et al. (1999); Moon & Candy
+(1997)
+Thelotornis capensis 701.5 78.8 Shine et al. (1996b)
+Thelotornis kirtlandii 877 69 TAUM
+Trimorphodon biscutatus 823 84.3 Moon & Candy (1997)
+Tropidonophis mairii 644.5 119.1 Shine (1991); Brown & Shine (2002)
+Virginia striatula 183 3.3 Ford et al. (1990)
+Virginia valeriae 232.7 7.2 Ford et al. (1990)
+Xenochrophis flavipunctatus 667.5 250.7 Karns et al. (2010)
+Xenochrophis piscator 555 131.6 Brooks et al. (2009)
+Xenodon merremi 615.3 201.8 França et al. (2008); Vitt (1983)
+Xenodon nattereri 245 14 França et al. (2008)
+Xenopholis scalaris 254.9 8.8 Tiffany Doan
+Xenopholis undulatus 268 10 França et al. (2008)
+Xenoxybelis argenteus 660 25 Tiffany Doan
+Zamenis longissimus 645 199 TAUM
+Elapidae
+Species SVL (mm) Mass (g) Source
+Aspidelaps scutatus 391.5 75.7 Shine et al. (1996a)
+Bungarus ceylonicus 770 47.7 TAUM
+Bungarus flaviceps 825 90.3 Moon & Candy (1997)
+Demansia vestigiata 610.7 60.8 Fearn & Trembath (2009)
+Dendroaspis angusticeps 1245 282.4 Moon & Candy (1997)
+Dendroaspis polylepis 1410 651.7 Jacobsen (1982)
+Enhydrina schistosa 792.9 314.23 Lobo et al. (2004)
+Hoplocephalus bungaroides 685 71 Shine & Fitzgerald (1989)
+Hoplocephalus stephensii 621 84 Fitzgerald et al. (2004)
+Lapemis curtus 508.6 147.1 Lobo et al. (2004)
+4 A. FELDMAN and S. MEIRIAPPENDIX S1 Continued
+Species SVL (mm) Mass (g) Source
+Laticauda colubrina 921 355 Moon & Candy (1997)
+Micrurus frontalis 650 80 França et al. (2008)
+Micrurus ibiboboca 643.5 48.5 Vitt & Valdinger (1983)
+Micrurus lemniscatus 679 38.5 Tiffany Doan
+Naja annulifera 858.1 391.2 Jacobsen (1982)
+Naja atra 1000.7 311.1 Ji & Wang (2005)
+Naja mossambica 586.2 171.3 Jacobsen (1982)
+Naja naja 1570 1497.5 TAUM
+Naja nigricollis 1010 256.7 TAUM
+Notechis scutatus 1258 835.5 Schwaner & Sarre (1988)
+Simoselaps bertholdi 203.4 7.6 How & Shine (1999)
+Simoselaps bimaculatus 306.5 8.9 How & Shine (1999)
+Simoselaps calonotus 214.8 5 How & Shine (1999)
+Simoselaps fasciolatus 241.4 9.3 How & Shine (1999)
+Simoselaps semifasciatus 261.2 12.7 How & Shine (1999)
+Walterinnesia aegyptia 810 321 TAUM
+Homalopsidae
+Species SVL (mm) Mass (g) Source
+Cerberus rynchops 460 60.4 Karns et al. (2002)
+Enhydris bocourti 552.5 232.4 Brooks et al. (2009)
+Enhydris enhydris 490.5 89.6 Brooks et al. (2009)
+Enhydris jagorii 484 245 Karns et al. (2010)
+Enhydris longicauda 465.5 134.2 Brooks et al. (2009)
+Enhydris plumbea 389 59.6 Karns et al. (2005)
+Enhydris subtaeniata 537.5 232.2 Karns et al. (2010)
+Erpeton tentaculatum 480 92.9 Brooks et al. (2009)
+Fordonia leucobalia 461 68.2 Karns et al. (2002)
+Gerarda prevostiana 365 23.2 Karns et al. (2002)
+Homalopsis buccata 729.7 296.7 Brooks et al. (2009); Karns et al. (2010)
+Lamprophiidae
+Species SVL (mm) Mass (g) Source
+Amblyodipsas polylepis 528.5 81.5 Shine et al. (2006b)
+Amblyodipsas ventrimaculata 295.5 7.4 Shine et al. (2006b)
+Aparallactus capensis 256.3 4.9 Jacobsen (1982)
+Atractaspis bibronii 467.5 34.3 Shine et al. (2006b)
+Atractaspis engaddensis 616.5 57.5 TAUM
+Atractaspis irregularis 405 21.2 TAUM
+Atractaspis microlepidota 677 93.5 TAUM
+Boaedon fuliginosus 466.5 30.8 Jacobsen (1982), TAUM
+Gonionotophis capensis 627 158.9 Jacobsen (1982)
+Gonionotophis nyassae 382.94 19.8 Jacobsen (1982)
+Homoroselaps lacteus 465 21.3 TAUM
+Lycodonomorphus rufulus 405 33.1 TAUM
+Lycophidion capense 283.5 10.8 Jacobsen (1982)
+Macrelaps microlepidotus 650 176.6 Shine et al. (2006b)
+Malpolon monspessulanus 1166 1257 TAUM, zoological garden
+Micrelaps muelleri 359.3 7.7 TAUM
+SNAKE LENGTH–MASS ALLOMETRY 5APPENDIX S1 Continued
+Species SVL (mm) Mass (g) Source
+Micrelaps tchernovi 315 3 TAUM
+Pararhadinaea melanogaster 215.6 2.9 Labanowski & Lowin (2011)
+Prosymna sundevallii 219.7 7.2 Jacobsen (1982)
+Psammophis aegyptius 720 197.9 TAUM
+Psammophis brevirostris 648.5 119.05 Shine et al. (2006a)
+Psammophis jallae 614 62.05 Shine et al. (2006a)
+Psammophis leopardinus 703.5 145.15 Shine et al. (2006a)
+Psammophis mossambicus 787 213.95 Shine et al. (2006a)
+Psammophis namibensis 579 50.35 Shine et al. (2006a)
+Psammophis notostictus 488.5 29.8 Shine et al. (2006a)
+Psammophis schokari 623 87 TAUM, zoological garden
+Psammophis subtaeniatus 598 68.15 Shine et al. (2006a)
+Psammophis trigrammus 647.5 51.25 Shine et al. (2006a)
+Psammophis trinasalis 511.5 41.6 Shine et al. (2006a)
+Psammophylax tritaeniatus 405 29.3 Shine et al. (2006a)
+Pseudaspis cana 950 492.9 TAUM
+Rhagerhis moilensis 250.2 8.07 TAUM
+Xenocalamus bicolor 476 27 Shine et al. (2006b)
+Xenocalamus mechowii 588 23.5 Shine et al. (2006b)
+Pythonidae
+Species SVL (mm) Mass (g) Source
+Antaresia maculosa 1154 530 Trembath (2008)
+Broghammerus reticulates 3061.3 11769.3 Shine et al. (1998)
+Morelia spilota 1587.6 2120.15 Pearson et al. (2002)
+Morelia viridis 1021 563.2 TAUM
+Python regius 1125 1324 Aubret et al. (2005), zoological garden
+Python sebae 3370 13250 TAUM
+Scolecophidia
+Species SVL (mm) Mass (g) Source
+Epictia albipuncta 144.5 1.4 Marinus Hoogmoed
+Epictia tenella 165.7 1.2 Alessandro Costa Menks
+Leptotyphlops distanti 143.5 0.57 Jacobsen (1982)
+Liotyphlops ternetzii 207 3 França et al. (2008), Marinus Hoogmoed
+Myriopholis macrorhyncha 232.1 1.38 TAUM
+Ramphotyphlops bicolor 234 10.39 Dale Nimmo
+Ramphotyphlops braminus 143.4 0.85 Kamosawa & Ota (1996)
+Rhinotyphlops simonii 198.2 0.95 TAUM
+Siagonodon septemstriatus 160 1.5 Marinus Hoogmoed
+Tetracheilostoma breuili 99.9 0.61 Hedges (2008)
+Tetracheilostoma carlae 93.7 0.6 Hedges (2008)
+Trilepida fuliginosa 207.25 4.6 França et al. (2008), Marinus Hoogmoed
+Trilepida macrolepis 279.7 9.5 Alessandro Costa Menks
+Typhlops minuisquamus 264 16.5 Marinus Hoogmoed
+Typhlops reticulatus 248.3 22 Alessandro Costa Menks, Marinus Hoogmoed
+Typhlops vermicularis 187.9 2.2 TAUM
+6 A. FELDMAN and S. MEIRIAPPENDIX S1 Continued
+Viperidae
+Species SVL (mm) Mass (g) Source
+Agkistrodon bilineatus 337 51.1 Moon & Candy (1997)
+Agkistrodon contortrix 610.5 217.2 Ford et al. (1990); Schuett & Gillingham (1989)
+Agkistrodon piscivorus 580 204 Ford et al. (1990)
+Atheris squamigera 477.5 44.5 TAUM
+Bitis arietans 839.5 743.3 TAUM
+Bitis caudalis 302.5 24.1 TAUM
+Bitis cornuta 325 32.6 TAUM
+Bitis gabonica 331 47.5 TAUM
+Bitis peringueyi 230 8.6 TAUM
+Bitis schneideri 198.7 15.8 Maritz & Alexander (2011)
+Bothriopsis bilineata 422 185 Tiffany Doan
+Bothropoides neuwiedi 413 43 França et al. (2008)
+Bothrops moojeni 618 217 França et al. (2008)
+Causus defilippii 317 21.6 TAUM
+Causus resimus 531.7 53.1 TAUM
+Causus rhombeatus 630 94.8 TAUM
+Cerastes cerastes 530.1 186.6 TAUM
+Cerastes gasperettii 547 144 TAUM
+Cerastes vipera 214.6 9.9 TAUM
+Crotalus cerastes 428.8 94.7 TAUM
+Crotalus durissus 1344.5 2440.5 Vitt & Valdinger (1983)
+Crotalus horridus 946 581.9 Brown (1991); Moon & Candy (1997)
+Crotalus molossus 885 438.4 Moon & Candy (1997)
+Crotalus oreganus 920 502.6 TAUM
+Crotalus polystictus 607 188.9 Setser et al. (2010); Moon & Candy (1997)
+Crotalus pricei 421.4 62.6 Prival et al. (2002)
+Crotalus ravus 683 223 Moon & Candy (1997)
+Crotalus triseriatus 180 4.4 Manjarrez et al. (2007)
+Crotalus viridis 678.7 221.1 Ashton & Patton (2001); Diller & Wallace (2002), Moon &
+Candy (1997)
+Daboia palaestinae 872 437.5 TAUM
+Daboia russelii 930 675 TAUM
+Echis carinatus 550.5 178.4 Moon & Candy (1997), TAUM
+Echis coloratus 622.7 147.7 Moon & Candy (1997), TAUM
+Echis pyramidum 457.8 76.6 TAUM
+Eristicophis macmahoni 542 125 TAUM
+Gloydius blomhoffii 410 63.7 TAUM
+Gloydius himalayanus 481 75.7 TAUM
+Gloydius shedaoensis 634 124 Li-Xin et al. (2002)
+Macrovipera deserti 690 244.2 TAUM
+Macrovipera lebetina 768 380 TAUM
+Macrovipera mauritanica 1080 855 TAUM
+Montivipera bornmuelleri 654 193 TAUM
+Montivipera latifii 578 104 TAUM
+Montivipera raddei 848.7 317.3 Moon & Candy (1997), TAUM
+Montivipera xanthina 942 351.3 TAUM
+Ovophis zayuensis 435 72 Inger et al. (1990)
+Protobothrops jerdonii 633.5 166.5 Inger et al. (1990)
+Pseudocerastes fieldi 612.5 185.2 TAUM
+Pseudocerastes persicus 625 215.3 TAUM
+Rhinocerophis alternatus 760 229.6 TAUM
+Rhinocerophis itapetiningae 304 38 França et al. (2008)
+Sistrurus catenatus 535 167.2 Moon & Candy (1997)
+SNAKE LENGTH–MASS ALLOMETRY 7APPENDIX S1 Continued
+Species SVL (mm) Mass (g) Source
+Sistrurus miliarius 369 40.6 Ford et al. (1990)
+Trimeresurus gracilis 296 34.5 Chia-Fan & Ming-Chung (2008)
+Trimeresurus kanburiensis 825 283.5 Moon & Candy (1997)
+Trimeresurus stejnegeri 707 175.5 Moon & Candy (1997)
+Vipera ammodytes 611 210.9 TAUM
+Vipera aspis 517 74.1 Bonnet et al. (2000), TAUM
+Vipera berus 330.1 32.3 Forsman & Lindell (1996), TAUM
+Vipera kaznakovi 493.5 52.1 TAUM
+Total length
+Boidae
+Species TL (mm) Mass (g) Source
+Boa constrictor 1848.3 5646.7 Zoolological garden
+Calabaria reinhardtii 837 183 Angelici et al. (2000)
+Candoia bibroni 560 45.2 TAUM
+Candoia carinata 780 530 Seymor (1987)
+Charina bottae 488.65 39.8 Hoyer & Stewart (2000), Peabody et al. (1975)
+Corallus caninus 1142.5 586.5 Tiffany Doan
+Corallus hortulanus 1273.8 207.2 Tiffany Doan
+Epicrates cenchria 1023.3 829.6 Vitt & Valdinger (1983), Tiffany Doan
+Epicrates maurus 1440 1767 Zoological garden
+Eryx conicus 260 15.9 TAUM
+Eryx jaculus 599.3 134.5 TAUM
+Eryx johnii 900 531 Zoological garden
+Eunectes murinus 2426 5900 Rivas (2000)
+Colubridae
+Species TL (mm) Mass (g) Source
+Ahaetulla prasina 1380 78.2 Seymor (1987)
+Amphiesma metusia 885 134 Inger et al. (1990)
+Amphiesma sauteri 414.25 14 Inger et al. (1990)
+Apostolepis albicollaris 297 4 França et al. (2008)
+Apostolepis ammodites 259 2 França et al. (2008)
+Apostolepis assimilis 251 4 França et al. (2008)
+Apostolepis flavotorquata 502 20 França et al. (2008)
+Arizona elegans 1070 161 Seymor (1987)
+Atractus badius 306.8 8.3 Tiffany Doan
+Atractus major 456 23 Tiffany Doan
+Atractus pantostictus 300 15 França et al. (2008)
+Atractus snethlageae 321 7.75 Tiffany Doan
+Boiga ceylonensis 460 5.9 TAUM
+Boiga cynodon 2350 417.3 Quinn & Neitman (1978)
+Boiga dendrophila 1260 182 Seymor (1987)
+Boiga irregularis 1320 402 Seymor (1987)
+Boiruna maculata 1517 823.5 Vitt & Valdinger (1983)
+Borikenophis portoricensis 816.9 64 Barun et al. (2007)
+Chironius exoletus 1276 147 França et al. (2008)
+Chironius flavolineatus 1116 89 França et al. (2008)
+Chironius fuscus 1080 70 Tiffany Doan
+Chironius multiventris 2496 650 Tiffany Doan
+8 A. FELDMAN and S. MEIRIAPPENDIX S1 Continued
+Species TL (mm) Mass (g) Source
+Chironius quadricarinatus 959 58 França et al. (2008)
+Chironius scurrulus 1720 750 Tiffany Doan
+Chrysopelea ornata 1050 145 Seymor (1987)
+Clelia clelia 2040.7 2050 Tiffany Doan
+Clelia plumbea 1716 600 França et al. (2008)
+Coelognathus radiatus 740 50.5 Seymor (1987)
+Coluber constrictor 1160 182 Seymor (1987)
+Coluber elegantissimus 604.4 21.7 TAUM
+Coluber flagellum 1810 475 Seymor (1987)
+Coluber sinai 543.7 19.1 TAUM
+Coronella austriaca 495 50 Luiselli, Capula & Shine (1996); Zuffi
+et al. (2010)
+Coronella girondica 650 55 Zuffi et al. (2010)
+Crotaphopeltis hotamboeia 448 13.8 TAUM
+Dendrelaphis calligastra 1030 83.7 Seymor (1987)
+Dendrelaphis caudolineatus 937.5 54 Seymor (1987)
+Dendrelaphis punctulatus 1185 130.25 Seymor (1987)
+Dendrophidion dendrophis 742 20.25 Tiffany Doan
+Diadophis punctatus 535.1 17.2 Parker & Brown (1974); Seymor (1987)
+Dinodon rufozonatum 780 160.9 Dieckmann et al. (2010)
+Dipsas catesbyi 532.2 11.3 Tiffany Doan
+Dipsas indica 412 4.5 Tiffany Doan
+Dipsas variegata 921.5 46.7 Tiffany Doan
+Dispholidus typus 1156 153 TAUM
+Dolichophis jugularis 1698.3 691.9 TAUM, zoological garden
+Drepanoides anomalus 569.2 28.6 Tiffany Doan
+Drymarchon corais 1553 829 França et al. (2008)
+Drymarchon couperi 1725.5 1759 Stevenson et al. (2003)
+Drymobius rhombifer 701.5 55.2 Tiffany Doan
+Drymoluber brazili 622 86 França et al. (2008)
+Drymoluber dichrous 979.7 119.3 Tiffany Doan
+Eirenis coronella 261.5 6.1 TAUM
+Eirenis coronelloides 254 4.3 TAUM
+Eirenis decemlineatus 666.7 29.4 TAUM
+Eirenis modestus 454.2 15.5 TAUM
+Eirenis rothii 219 1.6 TAUM
+Elaphe quatuorlineata 1600 400 TAUM
+Elaphe sauromates 1612.3 993 TAUM, zoological garden
+Erythrolamprus aesculapii 485 40 França et al. (2008)
+Gomesophis brasiliensis 359 23 França et al. (2008)
+Helicops angulatus 426.2 39.4 Tiffany Doan
+Helicops leopardinus 360 24 França et al. (2008)
+Helicops modestus 378 35 França et al. (2008)
+Hemorrhois hippocrepis 1100 220 Zuffi et al. (2010)
+Hemorrhois nummifer 1073 230 TAUM, zoological garden
+Hierophis viridiflavus 1153.3 172.3 Capula et al. (1995); Zuffi et al. (2010)
+Imantodes cenchoa 954.2 16.4 Tiffany Doan
+Imantodes lentiferus 913.6 14.5 Tiffany Doan
+Lampropeltis getula 1120 258 Seymor (1987)
+Lampropeltis nigra 745.3 152.5 Faust & Blomquist (2011)
+Leptodeira annulata 654.3 29.9 Tiffany Doan
+Leptophis ahaetulla 1144.7 68.3 Vitt & Valdinger (1983), Tiffany Doan
+Liophis almadensis 375 14 França et al. (2008)
+Liophis lineatus 550.5 26.5 Vitt (1983)
+SNAKE LENGTH–MASS ALLOMETRY 9APPENDIX S1 Continued
+Species TL (mm) Mass (g) Source
+Liophis maryellenae 399 23 França et al. (2008)
+Liophis mossoroensis 537.35 50.75 Vitt (1983)
+Liophis poecilogyrus 453 40.1 Vitt (1983)
+Liophis reginae 570.8 35.9 Tiffany Doan
+Liophis typhlus 720 47 Tiffany Doan
+Liophis viridis 456 20.75 Vitt (1983)
+Lygophis meridionalis 611 26 França et al. (2008)
+Lygophis paucidens 496 20 França et al. (2008)
+Lytorhynchus diadema 412 12.8 TAUM
+Macroprotodon cucullatus 433.7 16.6 TAUM
+Mastigodryas bifossatus 1410 523 França et al. (2008)
+Mussurana quimi 622 89 França et al. (2008)
+Natrix maura 615 44.4 TAUM
+Natrix natrix 400 13 TAUM
+Natrix tessellata 677.4 79.5 TAUM, zoological garden
+Nerodia sipedon 786.2 174 King et al. (1999); Weatherhead et al.
+(1995)
+Nerodia taxispilota 798 228 Seymor (1987)
+Ninia hudsoni 389.5 14.65 Tiffany Doan
+Oxybelis aeneus 1332 57.5 Vitt & Valdinger (1983)
+Oxyrhopus formosus 741 51.25 Tiffany Doan
+Oxyrhopus guibei 556 43 França et al. (2008)
+Oxyrhopus petolarius 809.8 34 Tiffany Doan
+Oxyrhopus rhombifer 389 21 França et al. (2008)
+Oxyrhopus trigeminus 563.3 41.3 Vitt & Valdinger (1983); França et al.
+(2008)
+Pantherophis alleghaniensis 1467 246 TAUM
+Pantherophis guttatus 1453.3 695.3 Zoological garden
+Pantherophis obsoletus 1380 510 Seymor (1987)
+Pantherophis spiloides 1348 322.8 Schumacher et al. (1997)
+Phalotris lativittatus 764 62 Braz et al. (2009)
+Phalotris nasutus 576 58 França et al. (2008)
+Philodryas aestivus 718 47 França et al. (2008)
+Philodryas chamissonis 955 145.3 TAUM
+Philodryas nattereri 1066.5 170.5 Vitt & Valdinger (1983)
+Philodryas olfersii 947.5 91.5 Vitt & Valdinger (1983)
+Philodryas patagoniensis 929 168 França et al. (2008)
+Philodryas psammophidea 610 50 França et al. (2008)
+Phimophis guerini 607 87 França et al. (2008)
+Phyllorhynchus decurtatus 510 22.6 TAUM
+Pituophis melanoleucus 1620 747 Seymor (1987)
+Plagiopholis styani 347.5 26 Inger et al. (1990)
+Platyceps collaris 985.3 63.6 TAUM, zoological garden
+Platyceps florulentus 377.7 11.5 TAUM
+Platyceps rhodorachis 1099.3 56.6 TAUM
+Platyceps rogersi 726.5 35.9 TAUM
+Pseudablabes agassizii 346 16 França et al. (2008)
+Pseudoboa coronata 743.8 62.8 Tiffany Doan
+Pseudoboa nigra 809.5 134 Vitt & Valdinger (1983)
+Ptyas korros 930 201 Seymor (1987)
+Rhabdophis nuchalis 517.8 32.5 Inger et al. (1990)
+Rhachidelus brazili 999 561 França et al. (2008)
+Rhinechis scalaris 1500 500 Zuffi et al. (2010)
+Rhinobothryum lentiginosum 1155 89.5 Tiffany Doan
+10 A. FELDMAN and S. MEIRIAPPENDIX S1 Continued
+Species TL (mm) Mass (g) Source
+Rhynchocalamus
+melanocephalus
+420 10 TAUM
+Sibynomorphus mikanii 332 12 França et al. (2008)
+Simophis rhinostoma 565 32 França et al. (2008)
+Spalerosophis diadema 1042.8 211.2 TAUM, zoological garden
+Spilotes pullatus 1803.5 552.5 Vitt & Valdinger (1983)
+Tachymenis peruviana 427.5 29.2 Tiffany Doan
+Tantilla coronata 231.8 2.5 Semlitsch et al. (1981); Todd et al.
+(2008)
+Tantilla melanocephala 301 7 França et al. (2008)
+Telescopus dhara 853 81.96 TAUM
+Telescopus fallax 567.95 33.2 TAUM
+Telescopus hoogstraali 779.8 74.6 TAUM
+Telescopus semiannulatus 490 9.5 TAUM
+Thamnodynastes hypoconia 407 20.4 Vitt & Valdinger (1983); França et al.
+(2008)
+Thamnodynastes pallidus 800 53 Vitt & Valdinger (1983)
+Thamnodynastes rutilus 384 21 França et al. (2008)
+Thamnophis radix 552.7 50.9 King et al. (1999)
+Thamnophis sirtalis 630.85 73.03 King et al. (1999)
+Thelotornis capensis 1109.5 78.8 Shine et al. (1996b)
+Thelotornis kirtlandii 1369 69 TAUM
+Xenochrophis flavipunctatus 898.56 250.7 Karns et al. (2010)
+Xenodon merremi 718.3 201.7 Vitt (1983); França et al. (2008)
+Xenodon nattereri 289 14 França et al. (2008)
+Xenopholis scalaris 302.6 8.8 Tiffany Doan
+Xenopholis undulatus 316 10 França et al. (2008)
+Xenoxybelis argenteus 1105 25 Tiffany Doan
+Zamenis lineatus 930 190 Zuffi et al. (2010)
+Zamenis longissimus 795 199.3 TAUM
+Elapidae
+Species TL (mm) Mass (g) Source
+Acanthophis antarcticus 567 252 Seymor (1987)
+Acanthophis pyrrhus 585 148 Seymor (1987)
+Aspidelaps scutatus 448.7 75.75 Shine et al. (1996a)
+Austrelaps superbus 553 339 Seymor (1987)
+Bungarus ceylonicus 850 47.7 TAUM
+Cacophis squamulosus 726 45.7 Seymor (1987)
+Chitulia belcheri 852 260 Seymor (1987)
+Chitulia inornata 645 156 Seymor (1987)
+Chitulia ornata 614 107 Seymor (1987)
+Cryptophis nigrescens 481 35 Seymor (1987)
+Demansia vestigiata 874.3 89.7 Fearn & Trembath (2009)
+Disteira major 910 258 Seymor (1987)
+Disteira stokesii 470 52 Seymor (1987)
+Enhydrina schistosa 892.8 314.2 Lobo et al. (2004)
+Furina diadema 388 15 Seymor (1987)
+Furina tristis 860 147 Seymor (1987)
+Hemiaspis signata 529 35.8 Seymor (1987)
+Hoplocephalus stephensii 878 104 Seymor (1987)
+SNAKE LENGTH–MASS ALLOMETRY 11APPENDIX S1 Continued
+Species TL (mm) Mass (g) Source
+Hydrelaps darwiniensis 391 22.4 Seymor (1987)
+Lapemis curtus 566.5 147.1 Lobo et al. (2004)
+Lapemis hardwickii 635 330 Seymor (1987)
+Laticauda laticaudata 883 165 Seymor (1987)
+Leioselasma cyanocincta 568 39.3 Seymor (1987)
+Leioselasma elegans 1980 2450 Seymor (1987)
+Micrurus frontalis 692 80 França et al. (2008)
+Micrurus ibiboboca 681.5 48.5 Vitt & Valdinger (1983)
+Micrurus lemniscatus 734 38.5 Tiffany Doan
+Micrurus tener 610 33.8 Campbell (1973)
+Naja atra 1166.3 311.1 Ji & Wang (2005)
+Naja naja 1843.5 1497.5 TAUM
+Naja nigricollis 1250 256.7 TAUM
+Notechis scutatus 870 226 Seymor (1987)
+Oxyuranus
+microlepidotus
+1660 838 Seymor (1987)
+Oxyuranus scutellatus 2100 753 Seymor (1987)
+Pelamis platura 637 30 Seymor (1987)
+Pseudechis australis 1440 642 Seymor (1987)
+Pseudechis porphyriacus 766 304 Seymor (1987)
+Pseudolaticauda
+semifasciata
+1020 641 Seymor (1987)
+Pseudonaja affinis 1070 368 Seymor (1987)
+Pseudonaja nuchalis 1380 464 Seymor (1987)
+Pseudonaja textilis 1360 469 Seymor (1987)
+Rhinoplocephalus bicolor 340 17.4 Seymor (1987)
+Simoselaps fasciolatus 291 9.5 Seymor (1987)
+Simoselaps incinctus 278 11.5 Seymor (1987)
+Simoselaps littoralis 215 7.75 Seymor (1987)
+Suta flagellum 256 7.05 Seymor (1987)
+Tropidechis carinatus 821 170 Seymor (1987)
+Vermicella annulata 482 14.5 Seymor (1987)
+Walterinnesia aegyptia 927.3 320.6 TAUM
+Homalopsidae
+Species TL (mm) Mass (g) Source
+Cerberus australis 500 36.8 Seymor (1987)
+Cerberus rynchops 500 36.5 Karns et al. (2002)
+Enhydris jagorii 621.6 245 Karns et al. (2010)
+Enhydris polylepis 664 132 Seymor (1987)
+Enhydris subtaeniata 645 232.2 Karns et al. (2010)
+Fordonia leucobalia 528 96.8 Karns et al. (2002); Seymor (1987)
+Gerarda prevostiana 420 23.2 Karns et al. (2002)
+Homalopsis buccata 953.9 347.2 Karns et al. (2010)
+12 A. FELDMAN and S. MEIRIAPPENDIX S1 Continued
+Lamprophiidae
+Species TL (mm) Mass (g) Source
+Amblyodipsas polylepis 571.5 81.5 Shine et al. (2006b)
+Amblyodipsas ventrimaculata 322 7.4 Shine et al. (2006b)
+Atractaspis aterrima 522 27.5 Gower et al. (2004)
+Atractaspis bibronii 484.5 34.3 Shine et al. (2006b)
+Atractaspis engaddensis 664.2 57.5 TAUM
+Atractaspis irregularis 434 21.2 TAUM
+Atractaspis microlepidota 743 93.5 TAUM
+Boaedon fuliginosus 725 50.9 TAUM
+Homoroselaps lacteus 520 21.3 TAUM
+Lycodonomorphus rufulus 565 33.1 TAUM
+Macrelaps microlepidotus 771.5 176.6 Shine et al. (2006b)
+Malpolon monspessulanus 1484 1257 TAUM, zoological garden
+Micrelaps muelleri 383 7.7 TAUM
+Micrelaps tchernovi 340 3 TAUM
+Pararhadinaea melanogaster 251.7 2.9 Labanowski & Lowin (2011)
+Psammophis aegyptius 1005 197.9 TAUM
+Psammophis brevirostris 964.5 119.05 Shine et al. (2006a)
+Psammophis jallae 914.5 62.05 Shine et al. (2006a)
+Psammophis leopardinus 1016.5 145.15 Shine et al. (2006a)
+Psammophis mossambicus 1109.5 213.95 Shine et al. (2006a)
+Psammophis namibensis 830.5 50.35 Shine et al. (2006a)
+Psammophis notostictus 706.5 29.8 Shine et al. (2006a)
+Psammophis schokari 938.4 86.6 TAUM, zoological garden
+Psammophis subtaeniatus 924 68.15 Shine et al. (2006a)
+Psammophis trigrammus 1018 51.25 Shine et al. (2006a)
+Psammophis trinasalis 748 41.6 Shine et al. (2006a)
+Psammophylax tritaeniatus 515 29.3 Shine et al. (2006a)
+Pseudaspis cana 1150 492.9 TAUM
+Rhagerhis moilensis 310.2 8.07 TAUM
+Xenocalamus bicolor 518.5 27 Shine et al. (2006b)
+Xenocalamus mechowii 631 23.5 Shine et al. (2006b)
+Pythonidae
+Species TL (mm) Mass (g) Source
+Antaresia maculosa 1259 530 Trembath (2008)
+Antaresia perthensis 769 339 Seymor (1987)
+Aspidites melanocephalus 1310 1362 Seymor (1987)
+Aspidites ramsayi 1950 3900 Seymor (1987)
+Broghammerus reticulatus 3522.52 11769.35 Shine et al. (1998)
+Liasis fuscus 1490 953 Seymor (1987)
+Liasis olivaceus 2400 3305 Seymor (1987)
+Morelia spilota 1683.8 1924.4 Pearson et al. (2002); Seymor (1987)
+Morelia viridis 1210 563.2 TAUM
+Python bivittatus 3220 21750 Van Mierop & Barnard (1976)
+Python regius 1216 1378 Gorzula et al. (1997); Aubret et al. (2005),
+zoological garden
+Python sebae 3735 13250 TAUM
+SNAKE LENGTH–MASS ALLOMETRY 13APPENDIX S1 Continued
+Scolecophidia
+Species TL (mm) Mass (g) Source
+Austrotyphlops australis 328 48 Seymor (1987)
+Austrotyphlops bituberculatus 247.6 3.4 Dale Nimmo
+Epictia albipuncta 156 1.4 Marinus Hoogmoed
+Epictia tenella 177.7 1.2 Alessandro Costa Menks
+Liotyphlops ternetzii 211 3 França et al. (2008), Marinus Hoogmoed
+Myriopholis macrorhyncha 254.9 1.4 TAUM
+Ramphotyphlops bicolor 241.3 10.4 Dale Nimmo
+Ramphotyphlops polygrammicus 510 43.3 Seymor (1987)
+Rhinotyphlops simonii 201.1 0.95 TAUM
+Siagonodon septemstriatus 165 1.5 Marinus Hoogmoed
+Tetracheilostoma breuili 106.8 0.61 Hedges (2008)
+Tetracheilostoma carlae 99.4 0.6 Hedges (2008)
+Trilepida fuliginosa 226.85 4.6 França et al. (2008), Marinus Hoogmoed
+Trilepida macrolepis 305.5 9.5 Alessandro Costa Menks
+Typhlops minuisquamus 272.6 16.5 Marinus Hoogmoed
+Typhlops reticulatus 255.9 22 Alessandro Costa Menks
+Typhlops tasymicris 227 1.9 Bentz et al. (2011)
+Typhlops vermicularis 191.5 2.2 TAUM
+Viperidae
+Species TL (mm) Mass (g) Source
+Agkistrodon piscivorus 1060 861 Seymor (1987)
+Atheris squamigera 570 44.5 TAUM
+Bitis arietans 927 743.3 TAUM
+Bitis caudalis 327.75 24.1 TAUM
+Bitis cornuta 360 32.65 TAUM
+Bitis gabonica 1053 4023.7 Broadley et al. (2003), TAUM
+Bitis peringueyi 242.5 8.6 TAUM
+Bothriechis schlegelii 650 102 Seymor (1987)
+Bothriopsis bilineata 468 185 Tiffany Doan
+Bothropoides neuwiedi 473 43 França et al. (2008)
+Bothrops moojeni 719 217 França et al. (2008)
+Causus defilippii 338 21.6 TAUM
+Causus resimus 576 53.13 TAUM
+Causus rhombeatus 685 94.8 TAUM
+Cerastes cerastes 590.2 186.6 TAUM
+Cerastes gasperettii 603.9 144.3 TAUM
+Cerastes vipera 239.4 9.9 TAUM
+Crotalus atrox 1230 1000 Seymor (1987)
+Crotalus cerastes 496.5 114.87 Seymor (1987), TAUM
+Crotalus durissus 1461.5 2440.5 Vitt & Valdinger (1983)
+Crotalus oreganus 1044.5 502.6 TAUM
+Crotalus ruber 1060 285 Seymor (1987)
+Crotalus triseriatus 222 4.41 Manjarrez et al. (2007)
+Crotalus viridis 850 415 Seymor (1987)
+Daboia palaestinae 984 437.6 TAUM
+Daboia russelii 1070 675 TAUM
+Echis carinatus 516.25 113.7 Seymor (1987)TAUM
+Echis coloratus 658.6 92.8 TAUM
+Echis pyramidum 510.3 76.6 TAUM
+14 A. FELDMAN and S. MEIRIAPPENDIX S1 Continued
+Species TL (mm) Mass (g) Source
+Eristicophis
+macmahoni
+595 125 TAUM
+Gloydius blomhoffii 482 63.7 TAUM
+Gloydius himalayanus 511 75.7 TAUM
+Macrovipera deserti 800 244.2 TAUM
+Macrovipera lebetina 871.2 380 TAUM
+Macrovipera
+mauritanica
+1260 855 TAUM
+Montivipera
+bornmuelleri
+705.3 192.7 TAUM
+Montivipera latifii 621.5 103.9 TAUM
+Montivipera raddei 853.75 255.5 Zuffi et al. (2010), TAUM
+Montivipera xanthina 1027.5 351.3 TAUM
+Ovophis zayuensis 530.5 72 Inger et al. (1990)
+Protobothrops jerdonii 752.7 166.5 Inger et al. (1990)
+Pseudocerastes fieldi 687.5 185.2 TAUM
+Pseudocerastes
+persicus
+715 215.3 TAUM
+Rhinocerophis
+alternatus
+900 229.6 TAUM
+Rhinocerophis
+itapetiningae
+343 38 França et al. (2008)
+Vipera ammodytes 682 210.9 TAUM
+Vipera aspis 605 85.2 Naulleau & Girons (1981);
+Zuffi et al. (2010), TAUM
+Vipera berus 567.7 74.5 Andren (1982), TAUM
+Vipera kaznakovi 551 52.1 TAUM
+Vipera latastei 550 87 Zuffi et al. (2010)
+Vipera ursinii 450 65 Zuffi et al. (2010)
+REFERENCES FOR THE LENGTH AND
+MASS DATA
+Aldridge RD, Siegel DS, Bufalino AP, Wisniewski SS,
+Jellen BC. 2010. A multiyear comparison of the male
+reproductive biology of the brown treesnake (Boiga irregu-
+laris) from Guam. Australian Journal of Zoology 58: 24–
+32.
+Andren C. 1982. Effect of prey density on reproduction,
+foraging and other activities in the adder, Vipera berus.
+Amphibia-Reptilia 3: 81–96.
+Angelici FM, Inyang MA, Effah C, Luiselli L. 2000. Analy-
+sis of activity patterns and habitat use of radiotracked
+African burrowing pythons Calabaria reinhardtii. Israel
+Journal of Zoology 46: 131–141.
+Ashton KG, Patton TM. 2001. Movement and reproductive
+biology of female midget faded rattlesnakes, Crotalus viridis
+concolor, in Wyoming. Copeia 2001: 229–234.
+Aubret F, Bonnet X, Harris M, Maumelat S. 2005. Sex
+differences in body size and ectoparasite load in the ball
+python, Python regius. Journal of Herpetology 39: 315–
+320.
+Barun A, Perry G, Henderson RW, Powel R. 2007.
+Alsophis portoricensis anegadae (Squamata: Colubridae):
+morphometric characteristics, activity patterns, and habitat
+use. Copeia 2007: 93–100.
+Bentz EJ, Rodriguez MJR, John R, Henderson RW,
+Powell R. 2011. Population densities, activity, microhabi-
+tats, and thermal biology of a unique crevice- and litter-
+dwelling assemblage of reptiles on Union Island, St. Vincent
+and the Grenadines. Herpetological Conservation and
+Biology 6: 40–50.
+Bonnet X, Naulleau G, Shine R, Lourdais O. 2000. Repro-
+ductive versus ecological advantages to larger body size in
+female snakes, Vipera aspis. Oikos 89: 509–518.
+Braz HBP, Araujo CO, Almeida-Santos SM. 2009. Life
+history traits of the snake Phalotris lativittatus (Xenodon-
+tinae: Elapomorphini) from the Brazilian Cerrado. Herpe-
+tology Notes 2: 163–164.
+Broadley DG, Doria CT, Wigge J. 2003. Snakes of Zambia:
+an Atlas and field guide. Frankfurt am Main: Edition
+Chimaira.
+Brooks SE, Allison EH, Gill JA, Reynolds JD. 2009.
+Reproductive and trophic ecology of an assemblage of
+SNAKE LENGTH–MASS ALLOMETRY 15aquatic and semi-aquatic snakes in Tonle Sap, Cambodia.
+Copeia 2009: 7–20.
+Brown GP, Shine R. 2002. Reproductive ecology of a tropical
+natricine snake, Tropidonophis mairii (Colubridae). Journal
+of Zoology 258: 63–72.
+Brown WS. 1991. Female reproductive ecology in a northern
+population of the timber rattlesnake, Crotalus horridus.
+Herpetologica 47: 101–115.
+Campbell JA. 1973. A captive hatching of Micrurus fulvius
+tenere (Serpentes, Elapidae). Journal of Herpetology 7: 312–
+315.
+Capula M, Filippi E, Luiselli L. 1995. Annual mating in
+female Colubrid snakes with irregular reproductive fre-
+quency. Herpetozoa 8: 11–15.
+Chia-Fan L, Ming-Chung T. 2008. Food habits of the Tai-
+wanese mountain pitviper, Trimeresurus gracilis. Zoological
+Studies 47: 697–703.
+Cobb VA. 2004. Diet and prey size of the flathead snake,
+Tantilla gracilis. Copeia 2004: 397–402.
+Dieckmann S, Norval G, Mao JJ. 2010. A description of an
+Asian king snake (Dinodon rufozonatum rufozonatum
+[Cantor, 1842]) clutch size from central western Taiwan.
+Herpetology Notes 3: 313–314.
+Diller LV, Wallace RL. 2002. Growth, reproduction, and
+survival in a population of Crotalus viridis oreganus in
+north central Idaho. Herpetological Monographs 16: 26–45.
+Faust TM, Blomquist SM. 2011. Size and growth in two
+populations of black kingsnakes, Lampropeltis nigra, in east
+Tennessee. Southern Eastern Naturalist 10: 40–422.
+Fearn S, Trembath DF. 2009. Body size, food habits, repro-
+duction and growth in a population of black whip snakes
+(Demansia vestigiata) (Serpentes: Elapidae) in tropical Aus-
+tralia. Australian Journal of Zoology 57: 49–54.
+Fitzgerald M, Shine R, Lemckert F. 2004. Life history
+attributes of the threatened Australian snake (Stephen’s
+banded snake Hoplocephalus stephensii, Elapidae). Biologi-
+cal Conservation 119: 121–128.
+Ford NB, Cobb VA, Lamar WW. 1990. Reproduction data on
+snakes from northeastern Texas. The Texas Journal of
+Science 42: 355–367.
+Ford NB, Karges JP. 1987. Reproduction in the checkered
+garter snake, Thamnophis marcianus, from Southern Texas
+and Northeastern Mexico: seasonality and evidence for mul-
+tiple clutches. The Southwestern Naturalist 32: 93–101.
+Ford NB, Killebrew DW. 1983. Reproductive tactics and
+female body size in Butler’s Garter snake, Thamnophis
+butleri. Journal of Herpetology 17: 271–275.
+Forsman A, Lindell LE. 1996. Resource dependent growth
+and body condition dynamics in juvenile snakes: an experi-
+ment. Oecologia 108: 669–675.
+França FGR, Mesquita DO, Nogueira CC, Araújo AFB.
+2008. Phylogeny and ecology determine morphological
+structure in a snake assemblage in the central Brazilian
+Cerrado. Copeia 2008: 23–38.
+Gorzula S, Nsiah WO, Oduro W. 1997. Survey of the status
+and management of the royal python (Python regius)in
+Ghana. Report to the Secretariat of the Convention on
+International Trade in Endangered Species of Wild Fauna
+and Flora (CITES), Geneva, Switzerland, 38 p + 6 annexes.
+Gower DJ, Rasmussen JB, Loader SP, Wilkinson M.
+2004. The caecilian amphibian Scolecomorphus kirkii Bou-
+lenger as prey of the burrowing asp Atractaspis aterrima
+(Gunther): trophic relationships of fossorial vertebrates.
+African Journal of Ecology 42: 83–87.
+Greene BD, Dixon JR, Whiting MJ, Mueller JM. 1999.
+Reproductive ecology of the Concho water snake, Nerodia
+harteri paucimaculata. Copeia 1993: 701–709.
+Hasegawa M, Moriguchi H. 1989. Geographic variation in
+food habits, body size and life history traits of the snakes on
+the Izu Islands. In: Matsui M, Hikida T, Goris RC, eds.
+Current herpetology in East Asia. Tokyo, Herpetological
+Society of Japan, 414–432.
+Hedges SB. 2008. At the lower size limit in snakes: two new
+species of threadsnakes (Squamata: Leptotyphlopidae: Lep-
+totyphlops) from the Lesser Antilles. Zootaxa 1841: 1–30.
+Henderson RW, Winstel RA. 1995. Aspects of habitat selec-
+tion by an arboreal Boa (Corallus enydris) in an area of
+mixed agriculture on Grenada. Journal of Herpetology 29:
+272–275.
+How AR, Shine R. 1999. Ecological traits and conservation
+biology of five fossorial ‘sand-swimming’ snake species
+(Simoselaps: Elapidae) in south-western Australia. Journal
+of Zoology 249: 269–282.
+Hoyer RF, Stewart GR. 2000. Biology of the rubber boa
+(Charina bottae) with emphasis on C. b. umbratica. Part I:
+Capture, size, sexual dimorphism, and reproduction.
+Journal of Herpetology 34: 348–354.
+Inger RF, Zhao E, Bradley SH, Guanfu W. 1990. Report on
+a collection of amphibians and reptiles from Sichuan, China.
+Fieldiana: Zoology New Series 58: 1–24.
+Jacobsen NHG. 1982. The ecology of the reptiles and
+amphibians in the Burkea africana–Eragrostis pallens
+savanna of the Nylsvley Nature Reserve. A thesis submitted
+in partial fulfilment of the requirements for the degree of
+MSc (Zoology) in the Faculty of Life Sciences. Pretoria:
+University of Pretoria.
+Ji X, Wang ZW. 2005. Geographic variation in reproductive
+traits and trade-offs between size and number of eggs of the
+Chinese cobra (Naja atra). Biological Journal of the
+Linnean Society 85: 27–40.
+Johnson CR. 1975. Thermoregulation in the Papuan-New
+Guinean boid and colubrid snakes, Candoia carinata,
+Candoia aspera and Boiga irregularis. Zoological Journal of
+the Linnean Society 56: 283–290.
+Kamosawa M, Ota H. 1996. Reproductive biology of the
+Brahminy Blind Snake (Ramphotyphlops braminus) from the
+Ryukyu Archipelago, Japan. Journal of Herpetology 30: 9–14.
+Karns DR, Murphy JC, Voris HK. 2010. Semi-aquatic
+snake communities of the central plain region of Thailand.
+Tropical Natural History 10: 1–25.
+Karns DR, Murphy JC, Voris HK, Suddeth JS. 2005.
+Comparison of semi-aquatic snake communities associated
+with the Khorat basin, Thailand. The Natural History
+Journal of Chulalongkorn University 5: 73–90.
+16 A. FELDMAN and S. MEIRIKarns DR, Voris HK, Goodwin TG. 2002. Ecology of
+Oriental-Australian rear-fanged water snakes (Colubridae:
+Homalopsinae) in the Pasir Ris Park Mangrove Forest,
+Singapore. Raffles Bulletin of Zoology 50: 487–498.
+King RB, Bittner TD, Queral-Regil A, Cline JH. 1999.
+Sexual dimorphism in neonate and adult snakes. Journal of
+Zoology 247: 19–28.
+Labanowski RK, Lowin AJ. 2011. A reptile survey in a dry
+deciduous forest fragment in northern Madagascar showing
+new records for the little-known snake Pararhadinaea mela-
+nogaster and a range extension for the skink Amphiglossus
+tanysoma. Herpetology Notes 4: 113–121.
+Lancaster DL, Ford NB. 2003. Reproduction in western
+ribbon snakes, Thamnophis proximus (Serpentes: Colubri-
+dae), from an east Texas bottomland. Texas Journal of
+Science 55: 25–32.
+Lind AJ, Welsh HH. 1990. Predation by Thamnophis couchii
+on Dicamptodon ensatus. Journal of Herpetology 24: 104–
+106.
+Li-xin S, Shine R, Debi Z, Zhengren T. 2002. Low costs,
+high output: reproduction in an insular pit-viper (Gloydius
+shedaoensis, Viperidae) from north-eastern China. Journal
+of Zoology London 256: 511–521.
+Lobo A, Pandav P, Vasudevan K. 2004. Weight–length
+relationships in two species of marine snakes along the
+coast of Goa, western India. Hamadryad 29: 89–93.
+Luiselli L, Capula M, Shine R. 1996. Reproductive output,
+costs of reproduction, and ecology of the smooth snake,
+Coronella austriaca, in the eastern Italian Alps. Oecologia
+106: 100–110.
+Manjarrez J, Venegas-Barrera CS, Garci’a-Guadarrama
+T. 2007. Ecology of the Mexican alpine blotched garter
+snake (Thamnophis scalaris). The Southwestern Naturalist
+52: 258–262.
+Maritz B, Alexander GJ. 2011. Morphology, sexual dimor-
+phism, and growth in the smallest viperid, Bitis schneideri
+(Reptilia: Squamata: Viperidae). Journal of Herpetology 45:
+457–462.
+Meiri M. 2008. Evolution and ecology of lizard body sizes.
+Global Ecology and Biogeography 17: 724–734.
+Moon BR, Candy T. 1997. Coelomic and muscular cross-
+sectional areas in three families of snakes. Journal of Her-
+petology 31: 37–44.
+Naulleau G, Girons SH. 1981. Poids des nouveau-nés et
+reproduction de Vipera aspis (Reptilia: Viperidae), dans des
+conditions naturelles et artificielles. Amphibia-Reptilia 2:
+51–62.
+Parker WS, Brown WS. 1974. Notes on the ecology of regal
+ringneck snakes (Diadophis punctatus regalis) in Northern
+Utah. Journal of Herpetology 8: 262–263.
+Peabody RB, Johnson JA, Brodie ED Jr. 1975. Intraspe-
+cific escape from ingestion of the Rubber Boa, Charina
+bottae. Journal of Herpetology 9: 237.
+Pearson D, Shine R, Williams A. 2002. Geographic varia-
+tion in sexual size dimorphism (Morelia spilota, Pythoni-
+dae). Oecologia 131: 418–426.
+Prival DB, Goode MJ, Swann DE, Schwalbe CR, Schroff
+MJ. 2002. Natural history of a northern population of
+twin-spotted rattlesnakes, Crotalus pricei. Journal of
+Herpetology 36: 598–607.
+Queral-Regil A, King RB. 1998. Evidence for phenotypic
+plasticity in snake body size and relative head dimensions in
+response to amount and size of prey. Copeia 1998: 423–429.
+Quinn HR, Neitman K. 1978. Reproduction in the Snake
+Boiga cynodon (Reptilia, Serpentes, Colubridae). Journal of
+Herpetology 12: 255–256.
+Rivas JA. 2000. The life history of the green anaconda
+(Eunectes murinus), with emphasis on its reproductive
+biology. Doctoral dissertation. Knoxville, TN: University of
+Tennessee.
+Rodriguez-Robles JA, Bell CJ, Greene HW. 1999. Gape
+size and evolution of diet in snakes: feeding ecology of
+erycine boas. Journal of Zoology 248: 49–58.
+Schuett GW, Gillingham JC. 1989. Male–male agonistic
+behavior of the copperhead, Agkistrodon contortrix.
+Amphibia-Reptilia 10: 243–266.
+Schumacher J, Lillywhite HB, Norman WM, Jacobson
+ER. 1997. Effects of ketamine HCl on cardiopulmonary
+function in snakes. Copeia 1997: 395–400.
+Schwaner TD, Sarre SD. 1988. Body size of tiger snakes in
+southern Australia, with particular reference to Notechis
+ater serventyi (Elapidae) on Chappell Island. Journal of
+Herpetology 22: 24–33.
+Secor SM, Nagy TR. 2003. Non-invasive measure of body
+composition of snakes using dual-energy X-ray absorptiom-
+etry. Comparative Biochemistry and Physiology A 136: 379–
+389.
+Seigel RA. 1992. Ecology of a specialized predator – Regina
+grahami in Missouri. Journal of Herpetology 26: 32–37.
+Semlitsch RD, Brown KL, Caldwell JP. 1981. Habitat
+utilization, seasonal activity, and population size structure
+of the southeastern crowned snake Tantilla coronata. Her-
+petologica 37: 40–46.
+Setser K, Mocino-Deloya E, Pleguezuelos JM, Lazcano
+D, Kardon A. 2010. Reproductive ecology of female
+Mexican lance-headed rattlesnakes. Journal of Zoology 281:
+175–182.
+Seymor RS. 1987. Scaling of cardiovascular physiology in
+snakes. American Zoologist 27: 97–109.
+Shine R. 1991. Strangers in a strange land: ecology of the
+Australian colubrid Snakes. Copeia 1991: 120–131.
+Shine R, Branch WR, Harlow PS, Webb JK, Shine T.
+2006b. Biology of burrowing Asps (Atractaspididae) from
+Southern Africa. Copeia 2006: 103–115.
+Shine R, Branch WR, Webb JK, Harlow PS, Shine T.
+2006a. Sexual dimorphism, reproductive biology, and
+dietary habits of psammophiine snakes (Colubridae) from
+southern Africa. Copeia 2006: 650–664.
+Shine R, Fitzgerald M. 1989. Conservation and reproduc-
+tion of an endangered species: the broad-headed snake,
+Hoplocephalus bungaroides (Elapidae). Australian Zoologist
+25: 65–67.
+Shine R, Haagner GV, Branch WR, Harlow PS, Webb JK.
+1996a. Natural history of the African shieldnose snake
+Aspidelaps scutatus (Serpentes, Elapidae). Journal of
+Herpetology 30: 361–366.
+SNAKE LENGTH–MASS ALLOMETRY 17Shine R, Harlow PS, Branch WR, Webb JK. 1996b. Life
+on the lowest branch: sexual dimorphism, diet, and repro-
+ductive biology of an African twig snake, Thelotornis cap-
+ensis (Serpentes, Colubridae). Copeia 1996: 290–299.
+Shine R, Harlow PS, Keogh JS, Boeadi. 1998. The allom-
+etry of life-history traits: insights from a study of giant
+snakes (Python reticulatus). Journal of Zoology 244: 405–
+414.
+Stevenson DJ, Dyer KJ, Willis-Stevenson BA. 2003.
+Survey and monitoring of the eastern indigo snake in
+Georgia. Southern Naturalist 2: 393–408.
+Tanaka K. 2011. Phenotypic plasticity of body size in an
+insular population of snake. Herpetologica 67: 46–57.
+Tanaka K, Ota H. 2002. Natural history of two colubrid
+snakes, Elaphe quadrivirgata and Rhabdophis tigrinus,on
+Yakushima Island, southwestern Japan. Amphibia-Reptilia
+23: 323–331.
+Todd BD, Willson JD, Winne CT, Semlitsch RD. 2008.
+Ecology of the South eastern Crowned Snake, Tantilla
+coronata. Copeia 2008: 388–394.
+Trembath DF. 2008. A record of ophiophagy by the spotted
+python Antaresia maculosa (serpentes: Pythonidae) from
+Murray Falls National Park, north Queensland, Australia.
+Herpetofauna 38: 81–83.
+Van Mierop LHS, Barnard SM. 1976. Observations on the
+reproduction of Python molurus bivittatus (Reptilia, Serpen-
+tes, Boidae). Journal of Herpetology 10: 333–340.
+Vitt LJ. 1983. Ecology of an anuran-eating guild of terrestrial
+tropical snakes. Herpetologica 39: 52–66.
+Vitt LJ, Valdinger LD. 1983. Ecology of a snake community
+in northern Brazil. Amphibia-Reptilia 4: 273–296.
+Weatherhead PJ, Barry FE, Brown GR, Forbes MRL.
+1995. Sex ratios, mating behavior and sexual size dimor-
+phism of the northern water snake, Nerodia sipedon. Behav-
+ioral Ecology and Sociobiology 36: 301–311.
+Wiley JW. 2003. Habitat association, size, stomach contents,
+and reproductive condition of Puerto Rican Boas (Epicrates
+inornatus). Caribbean Journal of Science 39: 189–194.
+Winne CT, Dorcas ME, Poppy SM. 2005. Population
+structure, body size, and seasonal activity of black
+Swamp Snakes (Seminatrix pygaea). Southern Naturalist 4:
+1–14.
+Zuffi MAL, Fornasiero S, Picchiotti R, Rapoli P, Lomele
+M. 2010. Adaptive significance of food income in European
+snakes: body size is related to prey energetics. Biological
+Journal of the Linnean Society 100: 307–317.
+APPENDIX S2
+SPECIES LIST AND SOURCE OF PHYLOGENY, ARRANGED BY FAMILY
+List of species
+Boidae
+Species Source
+Boa constrictor Lynch & Wagner (2010)
+Calabaria reinhardtii Lynch & Wagner (2010)
+Candoia aspera Lynch & Wagner (2010)
+Charina bottae Lynch & Wagner (2010)
+Corallus caninus Lynch & Wagner (2010)
+Corallus cookii Lynch & Wagner (2010)
+Corallus hortulanus Lynch & Wagner (2010)
+Epicrates cenchria Lynch & Wagner (2010)
+Epicrates inornatus Lynch & Wagner (2010)
+Epicrates maurus Rivera et al. (2011)
+Eryx jaculus Lynch & Wagner (2010)
+Eryx johnii Lynch & Wagner (2010)
+18 A. FELDMAN and S. MEIRIAPPENDIX S2 Continued
+Colubridae
+Species Source
+Amphiesma sauteri Pyron et al. (2011)
+Arizona elegans Pyron et al. (2011)
+Atractus badius Vidal et al. (2010a)
+Atractus pantostictus Franca et al. (2008)
+Bogertophis subocularis Pyron et al. (2011)
+Boiga ceylonensis Kelly et al. (2003) (based on
+B. dendrophila)
+Boiga cynodon Kelly et al. (2003) (based on
+B. dendrophila)
+Boiga dendrophila Pyron et al. (2011)
+Boiga irregularis Kelly et al. (2003) (based on
+B. dendrophila)
+Boiruna maculata Pyron et al. (2011)
+Chironius exoletus Hollis (2006)
+Chironius flavolineatus Hollis (2006)
+Chironius fuscus Hollis (2006)
+Chironius multiventris Hollis (2006)
+Chironius quadricarinatus Hollis (2006)
+Chironius scurrulus Hollis (2006)
+Clelia clelia Vidal et al. (2010a)
+Clelia plumbea Franca et al. (2008)
+Coelognathus radiatus Pyron et al. (2011)
+Coluber constrictor Pyron et al. (2011)
+Coluber flagellum Pyron et al. (2011)
+Coronella austriaca Pyron et al. (2011)
+Coronella girondica Pyron et al. (2011)
+Dasypeltis scabra Pyron et al. (2011)
+Dendrelaphis caudolineatus Pyron et al. (2011)
+Dendrophidion dendrophis Pyron et al. (2011)
+Diadophis punctatus Pyron et al. (2011)
+Dipsas catesbyi Pyron et al. (2011)
+Dipsas indica Vidal et al. (2010a)
+Dipsas variegata Vidal et al. (2010a)
+Dispholidus typus Pyron et al. (2011)
+Dolichophis jugularis Pyron et al. (2011)
+Drepanoides anomalus Pyron et al. (2011)
+Drymarchon corais Pyron et al. (2011)
+Drymobius rhombifer Pyron et al. (2011)
+Drymoluber dichrous Pyron et al. (2011)
+Eirenis coronelloides Pyron et al. (2011)
+Eirenis decemlineatus Pyron et al. (2011)
+Eirenis modestus Pyron et al. (2011)
+Eirenis rothii Pyron et al. (2011)
+Elaphe carinata Pyron et al. (2011)
+Elaphe quatuorlineata Pyron et al. (2011)
+Elaphe sauromates Utiger et al. (2002)
+Erythrolamprus aesculapii Pyron et al. (2011)
+Erythrolamprus sp. Pyron et al. (2011)
+Helicops angulatus Pyron et al. (2011)/
+Vidal et al. (2010a)
+Helicops leopardinus Franca et al. (2008)
+Helicops modestus Pyron et al. (2011)
+Hemorrhois hippocrepis Pyron et al. (2011)
+Hemorrhois nummifer Pyron et al. (2011)
+Heterodon platirhinos Pyron et al. (2011)
+Hierophis viridiflavus Pyron et al. (2011)
+Imantodes cenchoa Pyron et al. (2011)
+Imantodes lentiferus Pyron et al. (2011)
+Lampropeltis getula Pyron et al. (2011)
+Lampropeltis nigra Pyron et al. (2011)
+Leptodeira annulata Pyron et al. (2011)
+Leptophis ahaetulla Pyron et al. (2011)
+Liophis almadensis Franca et al. (2008)
+Liophis poecilogyrus Franca et al. (2008)
+Liophis reginae Vidal et al. (2010a)
+Species Source
+Liophis typhlus Vidal et al. (2010a)
+Lygophis meridionalis Franca et al. (2008)
+Lytorhynchus diadema Pyron et al. (2011)
+Macroprotodon cucullatus Pyron et al. (2011)
+Mussurana quimi Franca et al. (2008)
+Natrix maura Pyron et al. (2011)
+Natrix natrix Pyron et al. (2011)
+Natrix tessellata Pyron et al. (2011)
+Nerodia fasciata Pyron et al. (2011)
+Nerodia rhombifer Pyron et al. (2011)
+Nerodia sipedon Pyron et al. (2011)
+Nerodia taxispilota Pyron et al. (2011)
+Opheodrys aestivus Pyron et al. (2011)
+Oxybelis aeneus Pyron et al. (2011)
+Oxyrhopus formosus Vidal et al. (2010a)
+Oxyrhopus guibei Pyron et al. (2011)
+Oxyrhopus petolarius Pyron et al. (2011)
+Oxyrhopus rhombifer Vidal et al. (2010a)
+Pantherophis guttatus Pyron et al. (2011)
+Philodryas aestivus Vidal et al. (2010a)
+Philodryas nattereri Pyron et al. (2011)
+Philodryas olfersii Pyron et al. (2011)
+Philodryas patagoniensis Pyron et al. (2011)
+Philodryas viridissima Pyron et al. (2011)
+Philothamnus
+semivariegatus
+Jesus et al. (2009)
+Phimophis guerini Vidal et al. (2010a)
+Phyllorhynchus decurtatus Pyron et al. (2011)
+Pituophis melanoleucus Pyron et al. (2011)
+Platyceps collaris Pyron et al. (2011)
+Platyceps florulentus Pyron et al. (2011)
+Platyceps rhodorachis Pyron et al. (2011)
+Platyceps rogersi Pyron et al. (2011)
+Pseudablabes agassizii Pyron et al. (2011)
+Pseudoboa coronata Vidal et al. (2010a)
+Pseudoboa nigra Vidal et al. (2010a)
+Ptyas korros Pyron et al. (2011)
+Regina grahami Pyron et al. (2011)
+Rhabdophis nuchalis Pyron et al. (2011)
+Rhabdophis tigrinus Pyron et al. (2011)
+Rhinechis scalaris Pyron et al. (2011)
+Seminatrix pygaea Pyron et al. (2011)
+Sibon nebulatus Pyron et al. (2011)
+Spalerosophis diadema Pyron et al. (2011)
+Spilotes pullatus Pyron et al. (2011)
+Storeria dekayi Pyron et al. (2011)
+Storeria occipitomaculata Pyron et al. (2011)
+Tantilla melanocephala Vidal et al. (2000) (genus
+and Pyron et al., 2011)
+Telescopus fallax Pyron et al. (2011)
+Thamnodynastes hypoconia Vidal et al. (2010a)
+Thamnodynastes pallidus Vidal et al. (2010a)
+Thamnophis butleri Pyron et al. (2011)
+Thamnophis couchii Pyron et al. (2011)
+Thamnophis marcianus Pyron et al. (2011)
+Thamnophis proximus Pyron et al. (2011)
+Thamnophis radix Pyron et al. (2011)
+Thamnophis scalaris de Queiroz et al. (2002)
+Thelotornis capensis Pyron et al. (2011)
+Trimorphodon biscutatus Pyron et al. (2011)
+Xenodon merremi Pyron et al. (2011)
+Xenodon nattereri Franca et al. (2008)
+Xenopholis scalaris Pyron et al. (2011)
+Xenoxybelis argenteus Zaher et al. (2009)
+Zamenis longissimus Pyron et al. (2011)
+SNAKE LENGTH–MASS ALLOMETRY 19APPENDIX S2 Continued
+Elapidae
+Species Source
+Acanthophis antarcticus Pyron et al. (2011)
+Acanthophis pyrrhus Reed & Shine (2002)
+Aspidelaps scutatus Pyron et al. (2011)
+Bungarus flaviceps Pyron et al. (2011)
+Cacophis squamulosus Pyron et al. (2011)
+Chitulia inornata Lillywhite et al. (2011)
+Chitulia ornata Pyron et al. (2011)
+Cryptophis nigrescens Pyron et al. (2011)
+Demansia vestigiata Pyron et al. (2011)
+Dendroaspis angusticeps Pyron et al. (2011)
+Dendroaspis polylepis Pyron et al. (2011)
+Furina diadema Pyron et al. (2011)
+Furina tristis Reed & Shine (2002)
+Hoplocephalus bungaroides Reed & Shine (2002)
+Hoplocephalus stephensii Reed & Shine (2002)
+Micrurus frontalis Pyron et al. (2011)
+Micrurus ibiboboca Pyron et al. (2011)
+Micrurus lemniscatus Pyron et al. (2011)
+Naja annulifera Pyron et al. (2011)
+Naja mossambica Pyron et al. (2011)
+Naja naja Pyron et al. (2011)
+Naja nigricollis Pyron et al. (2011)
+Notechis scutatus Pyron et al. (2011)
+Oxyuranus microlepidotus Pyron et al. (2011)
+Oxyuranus scutellatus Pyron et al. (2011)
+Pelamis platura Pyron et al. (2011)
+Pseudechis australis Pyron et al. (2011)
+Pseudonaja affinis Reed & Shine (2002)
+(based on genus)
+Pseudonaja nuchalis Reed & Shine (2002)
+(based on genus)
+Pseudonaja textilis Reed & Shine (2002)
+(based on genus)
+Simoselaps bertholdi Pyron et al. (2011)
+Simoselaps bimaculatus Sanders et al. (2008)
+Simoselaps calonotus Pyron et al. (2011)
+Simoselaps fasciolatus Sanders et al. (2008)
+Simoselaps littoralis Reed & Shine (2002)
+Simoselaps semifasciatus Pyron et al. (2011)
+Suta flagellum Reed & Shine (2002)
+(based on genus)
+Tropidechis carinatus Pyron et al. (2011)
+Walterinnesia aegyptia Pyron et al. (2011)
+Lamprophiidae
+Species Source
+Amblyodipsas polylepis Vidal et al. (2008)
+(based on genus)
+Aparallactus capensis Pyron et al. (2011)
+Atractaspis bibronii Pyron et al. (2011)
+Atractaspis microlepidota Pyron et al. (2011)
+Boaedon fuliginosus Pyron et al. (2011)
+Gonionotophis capensis Pyron et al. (2011)
+Gonionotophis nyassae Pyron et al. (2011)
+Homoroselaps lacteus Pyron et al. (2011)
+Lycodonomorphus rufulus Pyron et al. (2011)
+Macrelaps microlepidotus Pyron et al. (2011)
+Malpolon monspessulanus Pyron et al. (2011)
+Psammophis brevirostris Kelly et al. (2008)
+Psammophis jallae Pyron et al. (2011)
+Psammophis leopardinus Pyron et al. (2011)
+Psammophis mossambicus Pyron et al. (2011)
+Psammophis notostictus Pyron et al. (2011)
+Psammophis schokari Pyron et al. (2011)
+Psammophis subtaeniatus Pyron et al. (2011)
+Psammophis trigrammus Pyron et al. (2011)
+Psammophylax tritaeniatus Pyron et al. (2011)
+Pseudaspis cana Pyron et al. (2011)
+Pythonidae
+Species Source
+Antaresia maculosa Rawlings et al. (2008)
+Antaresia perthensis Rawlings et al. (2008)
+Aspidites melanocephalus Rawlings et al. (2008)
+Aspidites ramsayi Rawlings et al. (2008)
+Broghammerus reticulatus Rawlings et al. (2008)
+Liasis fuscus Rawlings et al. (2008)
+Liasis olivaceus Rawlings et al. (2008)
+Morelia spilota Rawlings et al. (2008)
+Morelia viridis Rawlings et al. (2008)
+Python regius Rawlings et al. (2008)
+Python sebae Rawlings et al. (2008)
+Homalopsidae
+Species Source
+Cantoria violacea Pyron et al. (2011)
+Cerberus australis Pyron et al. (2011)
+Cerberus rynchops Pyron et al. (2011)
+Enhydris bocourti Pyron et al. (2011)
+Enhydris enhydris Pyron et al. (2011)
+Enhydris jagorii Voris et al. (2002)
+Enhydris plumbea Pyron et al. (2011)
+Enhydris subtaeniata Pyron et al. (2011)
+Fordonia leucobalia Pyron et al. (2011)
+Gerarda prevostiana Pyron et al. (2011)
+Homalopsis buccata Pyron et al. (2011)
+20 A. FELDMAN and S. MEIRIAPPENDIX S2 Continued
+Viperidae
+Species Source
+Agkistrodon bilineatus Pyron et al. (2011)
+Agkistrodon contortrix Pyron et al. (2011)
+Agkistrodon piscivorus Pyron et al. (2011)
+Atheris squamigera Pyron et al. (2011)
+Bitis arietans Pyron et al. (2011)
+Bitis caudalis Pyron et al. (2011)
+Bitis cornuta Pyron et al. (2011)
+Bitis gabonica Pyron et al. (2011)
+Bitis peringueyi Pyron et al. (2011)
+Bitis schneideri Hampton (2011)
+Bitis worthingtoni Pyron et al. (2011)
+Bothriechis schlegelii Pyron et al. (2011)
+Bothriopsis bilineata Pyron et al. (2011)
+Bothropoides neuwiedi Pyron et al. (2011)
+Bothrops moojeni Pyron et al. (2011)
+Causus defilippii Pyron et al. (2011)
+Causus resimus Pyron et al. (2011)
+Causus rhombeatus Pyron et al. (2011)
+Cerastes cerastes Pyron et al. (2011)
+Cerastes gasperettii Lenk et al. (2001)
+Cerastes vipera Pyron et al. (2011)
+Crotalus atrox Pyron et al. (2011)
+Crotalus cerastes Pyron et al. (2011)
+Crotalus durissus Pyron et al. (2011)
+Crotalus horridus Pyron et al. (2011)
+Crotalus molossus Pyron et al. (2011)
+Crotalus oreganus Pyron et al. (2011)
+Crotalus polystictus Hampton (2011)
+Crotalus pricei Hampton (2011)
+Crotalus ravus Pyron et al. (2011)
+Crotalus ruber Castoe & Parkinson
+(2006)
+Species Source
+Crotalus viridis Pyron et al. (2011)
+Daboia palaestinae Pyron et al. (2011)
+Daboia russelii Pyron et al. (2011)
+Echis carinatus Pyron et al. (2011)
+Echis coloratus Pyron et al. (2011)
+Echis pyramidum Pyron et al. (2011)
+Eristicophis macmahoni Pyron et al. (2011)
+Macrovipera deserti Pyron et al. (2011)
+Macrovipera lebetina Pyron et al. (2011)
+Macrovipera mauritanica Pyron et al. (2011)
+Montivipera raddei Pyron et al. (2011)
+Montivipera xanthina Pyron et al. (2011)
+Ovophis zayuensis Malhotra & Thorpe
+(2004) (based on
+O. monticola)
+Protobothrops jerdonii Pyron et al. (2011)
+Pseudocerastes fieldi Pyron et al. (2011)
+Pseudocerastes persicus Pyron et al. (2011)
+Rhinocerophis alternatus Pyron et al. (2011)
+Rhinocerophis itapetiningae Pyron et al. (2011)
+Sistrurus catenatus Pyron et al. (2011)
+Sistrurus miliarius Pyron et al. (2011)
+Trimeresurus kanburiensis Malhotra & Thorpe
+(2004)
+Trimeresurus stejnegeri Pyron et al. (2011)
+Vipera ammodytes Pyron et al. (2011)
+Vipera aspis Pyron et al. (2011)
+Vipera berus Pyron et al. (2011)
+Vipera latastei Pyron et al. (2011)
+Vipera ursinii Pyron et al. (2011)
+Scolecophidia
+Species Source
+Austrotyphlops australis Vidal et al. (2010b)
+Austrotyphlops bituberculatus Vidal et al. (2010b)
+Epictia albipuncta Adalsteinsson et al. (2009), Vidal et al. (2010b) (genus)
+Epictia tenella Adalsteinsson et al. (2009)
+Leptotyphlops distanti Adalsteinsson et al. (2009)
+Liotyphlops ternetzii Vidal et al. (2010b)
+Myriopholis macrorhyncha Adalsteinsson et al. (2009)
+Ramphotyphlops bicolor Vidal et al. (2010b)
+Ramphotyphlops braminus Vidal et al. (2010b)
+Ramphotyphlops polygrammicus Vidal et al. (2010b)
+Siagonodon septemstriatus Adalsteinsson et al. (2009)
+Tetracheilostoma breuili Adalsteinsson et al. (2009)
+Tetracheilostoma carlae Adalsteinsson et al. (2009)
+Trilepida fuliginosa Adalsteinsson et al. (2009) (based on genus)
+Trilepida macrolepis Adalsteinsson et al. (2009)
+SNAKE LENGTH–MASS ALLOMETRY 21REFERENCES FOR THE PHYLOGENETIC
+RELATIONSHIPS
+Adalsteinsson SA, Branch WR, Trape S, Vitt LJ, Hedges
+SB. 2009. Molecular phylogeny, classification, and biogeog-
+raphy of snakes of the Family Leptotyphlopidae (Reptilia,
+Squamata). Zootaxa 2244: 1–50.
+Castoe TA, Parkinson CL. 2006. Bayesian mixed models
+and the phylogeny of pitvipers (Viperidae: Serpentes).
+Molecular Phylogenetics and Evolution 39: 91–110.
+Franca FGR, Mesquita DO, Nogueira CC, Araujo AFB.
+2008. Phylogeny and ecology determine morphological
+structure in a snake assemblage in the central Brazilian
+Cerrado. Copeia 2008: 23–28.
+Hampton PM. 2011. Ventral and sub-caudal scale counts are
+associated with macrohabitat use and tail specialization in
+viperid snakes. Evolutionary Ecology 25: 531–546.
+Hollis JL. 2006. Phylogenetics of the genus Chironius Fitz-
+inger, 1826 (Serpentes, Colubridae) based on morphology.
+Herpetologica 62: 435–453.
+Jesus J, Nagy ZT, Branch WR, Wink M, Brehm A, Harris
+J. 2009. Phylogenetic relationships of African green snakes
+(genera Philothamnus and Hapsidophrys) from São Tomé,
+Príncipe and Annobon islands based on mtDNA sequences,
+and comments on their colonization and taxonomy. Herpe-
+tological Journal 19: 41–48.
+Kelly CMR, Barker NP, Villet MH. 2003. Phylogenetics of
+advanced snakes (Caenophidia) based on four mitochondrial
+genes. Systematic Biology 52: 439–459.
+Kelly CMR, Barker NP, Villet MH, Broadley DG, Branch
+WR. 2008. The snake family Psammophiidae (Reptilia:
+Serpentes): phylogenetics and species delimitation in the
+African sand snakes (Psammophis Boie, 1825) and allied
+genera. Molecular Phylogenetics and Evolution 47: 1045–
+1060.
+Lenk P, Kalyabina S, Wink M, Joger U. 2001. Evolution-
+ary relationships among the true vipers (Reptilia: Viperi-
+dae) inferred from mitochondrial DNA sequences. Molecular
+Phylogenetics and Evolution 19: 94–104.
+Lillywhite HB, Albert JS, Sheehy CM III, Seymour RS.
+2011. Gravity and the evolution of cardiopulmonary mor-
+phology in snakes. Comparative Biochemistry and Physiol-
+ogy – Part A: Molecular and Integrative Physiology 161:
+230–242.
+Lynch VC, Wagner GP. 2010. Did egg-laying boas break
+Dollo’s law? Phylogenetic evidence for reversal to oviparity
+in sand boas (Eryx: Boidae). Evolution 64: 207–216.
+Malhotra A, Thorpe RS. 2004. A phylogeny of four mito-
+chondrial gene regions suggests a revised taxonomy for
+Asian pitvipers (Trimeresurus and Ovophis). Molecular Phy-
+logenetics and Evolution 32: 83–100.
+Pyron RA, Burbrinkb FT, Colli GR, Montes de Oca AM,
+Vitt LJ, Kuczynskia CA, Wiens JJ. 2011. The phylogeny
+of advanced snakes (Colubroidea), with discovery of a new
+subfamily and comparison of support methods for likelihood
+trees. Molecular Phylogenetics and Evolution 58: 329–342.
+de Queiroz A, Lawson R, Lemos-Espinal JA. 2002. Phy-
+logenetic relationships of North American garter snakes
+(Thamnophis) based on four mitochondrial genes: how much
+DNA sequence is enough? Molecular Phylogenetics and
+Evolution 22: 315–329.
+Rawlings LH, Rabosky DL, Donnellan SC, Hutchinson
+MN. 2008. Python phylogenetics: inference from morphol-
+ogy and mitochondrial DNA. Biological Journal of the
+Linnean Society 93: 603–619.
+Reed RN, Shine R. 2002. Lying in wait for extinction:
+ecological correlates of conservation status among Aus-
+tralian elapid snakes. Conservation Biology 16: 451–
+461.
+Rivera PC, Di Cola V, Martınez JJ, Gardenal CN, Chi-
+araviglio M. 2011. Species delimitation in the continental
+forms of the genus Epicrates (Serpentes, Boidae) integrating
+phylogenetics and environmental niche models. PLoS ONE
+6: e22199. 10.1371/journal.pone.0022199.
+Sanders KL, Lee MSY, Leijs R, Foster R, Keogh JS. 2008.
+Molecular phylogeny and divergence dates for Australasian
+elapids and sea snakes (Hydrophiinae): evidence from seven
+genes for rapid evolutionary radiations. Journal of Evolu-
+tionary Biology 21: 682–695.
+Utiger U, Helfenberger N, Schätti B, Schmidt C, Ruf M,
+Ziswiler V. 2002. Molecular systematics and phylogeny of
+old and new world ratsnakes, Elaphe Auct., and related
+genera (Reptilia, Squamata, Colubridae). Russian Journal
+of Herpetology 9: 105–124.
+Vidal N, Kindl SG, Wong A, Hedges SB. 2000. Phylogenetic
+relationships of Xenodontine snakes inferred from 12S and
+16S ribosomal RNA sequences. Molecular Phylogenetics and
+Evolution 14: 389–402.
+Vidal N, Branch WR, Pauwels OSG, Hedges SB, Broad-
+ley DG, Wink M, Cruaud C, Joger U, Nagy ZT. 2008.
+Dissecting the major African snake radiation: a molecular
+phylogeny of the Lamprophiidae Fitzinger (Serpentes,
+Caenophidia). Zootaxa 1945: 51–66.
+Vidal N, Dewynterb M, Gower DJ. 2010a. Dissecting the
+major American snake radiation: a molecular phylogeny
+of the Dipsadidae Bonaparte (Serpentes, Caenophidia).
+Comptes Rendus Biologies 333: 48–55.
+Vidal N, Marin J, Morini M, Donnellan S, Branch WR,
+Thomas R, Vences M, Wynn A, Cruaud C, Hedges SB.
+2010b. Blindsnake evolutionary tree reveals long history on
+Gondwana. Biology Letters 6: 558–561.
+Voris HK, Alfaro ME, Karns DR, Starnes GL, Thompson
+E, Murphy JC. 2002. Phylogenetic relationships of the
+Oriental-Australian rear-fanged water snakes (Colubridae:
+Homalopsinae) based on mitochondrial DNA sequences.
+Copeia 2002: 906–915.
+Zaher H, Grazziotin FG, Cadle JE, Murphy RW, de
+Moura-Leite JC, Bonatto SL. 2009. Molecular phylogeny
+of advanced snakes (Serpentes, Caenophidia) with an
+emphasis on South American Xenodontines: a revised clas-
+sification and descriptions of new taxa. Papéis Avulsos de
+Zoologia (São Paulo) 49: 115–153.
+22 A. FELDMAN and S. MEIRIAPPENDIX S3
+PHYLOGENETIC RESULTS, MODEL BY VIDAL ET AL. (2007)
+General allometries
+SVL: slope = 2.580 (SE = 0.078), intercept =-5.128 (SE = 0.243), R2 = 0.838.
+TL: slope = 2.448 (SE = 0.093), intercept =-4.982 (SE = 0.304), R2 = 0.774.
+The best model for the relationship between mass and SVL included microhabitat use and reproduction mode.
+This model explained 87.2% of the variation in mass and had a maximum likelihood value of l of 0.45
+(significantly different from both zero and unity, P << 0.001). Arboreal species are lighter than the others
+(P << 0.001 for all cases). Aquatic and burrower species are heavier than terrestrial (P = 0.046 and 0.020,
+respectively) and terrestrial–arboreal (P = 0.022 and 0.001, respectively) species, but do not differ from each
+other. Terrestrial and terrestrial–arboreal species do not differ from each other. Viviparous species are heavier
+than oviparous species (P = 0.014).
+Parameter estimates
+The intercept values are for oviparous species in different microhabitats. The value of 0.118 should be added
+to the intercept values for the calculation of the intercept value of viviparous species in each microhabitat.
+Intercept Intercept difference
+Arboreal -5.708
+Aquatic -5.327
+Burrower -5.337
+Terrestrial–arboreal -5.500
+Terrestrial -5.457
+Viviparous 0.118
+APPENDIX S4
+EVALUATION OF THE ALLOMETRIES
+Predictive power of ours and Pough’s allometric equations (number of species in parentheses; first row in each
+family: P value and t value; second row in each family: percentage of deviation from real mass)
+Family Pough’s real data
+New allometries real
+data
+Pough’s new
+allometries
+All (302) << 0.001, -13.052 0.641, 0.466 << 0.001, 21.498
+19.83 13.53
+Boidae (15) 0.894, -0.135 0.822, 0.229 < 0.437, 0.800
+8.26 12.73
+Colubridae (166) << 0.001, -13.792 0.934, -0.0827 << 0.001, 32.486
+21.93 15.63
+Elapidae (26) << 0.001, -4.808 0.981, -0.024 << 0.001, 8.773
+17.97 14.32
+Lamprophiidae (35) << 0.001, -9.2065 0.310, 1.032 << 0.001, 24.175
+28.06 15.45
+Viperidae (60) 0.061, 1.906 0.683, 0.410 << 0.001, -4.35
+7.03 6.46
+SNAKE LENGTH–MASS ALLOMETRY 23
