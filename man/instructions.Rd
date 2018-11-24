@@ -17,4 +17,6 @@ This help page lists the functions you can use to navigate this course.
 feedback if it is not correct
 
 - \code{next.question()} - Will proceed to the next question
+
+- \code{bye()} - Saves your progress and quits - but you will not want to quit!
 }

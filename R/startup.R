@@ -38,7 +38,7 @@
 #'
 #' - \code{next.question()} - Will proceed to the next question
 #'
-#' - \code{bye()} - Saves your progress and quits.
+#' - \code{bye()} - Saves your progress and quits - but you will not want to quit!
 #'
 #' @export
 instructions <- function() {
