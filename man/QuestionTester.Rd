@@ -4,13 +4,16 @@
 \alias{QuestionTester}
 \title{QuestionTester constructor}
 \usage{
-QuestionTester(tester, feedback_generator)
+QuestionTester(tester_fun, feedback_generator)
 }
 \arguments{
-\item{tester}{the function that will be called to verify the question answer.
+\item{tester_fun}{the function that will be called to verify the question answer.
 It should only return \code{TRUE} or \code{FALSE}}
 
-\item{feedback_generator}{the function that will be called when \code{tester} returns
+\item{feedback_generator}{this argument is used to rovide relevant feedback
+to the user. It can be either a simple \code{character} or a \code{function}.
+If it is a character, it is simply displayed when the answer is incorrect.
+If it is a function, it will be called when \code{tester} returns
 \code{FALSE}. It will be passed the user's incorrect answer and should print some
 appropriate feedback message.}
 }

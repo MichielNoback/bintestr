@@ -4,16 +4,15 @@
 \alias{Question}
 \title{Question constructor}
 \usage{
-Question(question_text, question_tester, type = "console-input",
-  hints = NULL)
+Question(q_text, q_tester, q_type = "console-input", hints = NULL)
 }
 \arguments{
-\item{question_text}{the text that will be displayed in the console prompting the user
+\item{q_text}{the text that will be displayed in the console prompting the user
 to action.}
 
-\item{question_tester}{an instance of class \link[bintestr]{QuestionTester}.}
+\item{q_tester}{an instance of class \link[bintestr]{QuestionTester}.}
 
-\item{type}{the type can be one of \code{console-input}, \code{environment-eval}. For
+\item{q_type}{the type can be one of \code{console-input}, \code{environment-eval}. For
 \code{console-input}, execution will be halted until the user has entered some text
 and hit enter. For \code{environment-eval}, the user is required to explicitly call
 \code{verify()} on the question instance.}
