@@ -26,7 +26,7 @@
     save(userdata, file = .progress.file)
 }
 
-#' Display instructions
+#' Display bintestr instructions
 #'
 #' This help page lists the functions you can use to navigate this course.
 #'
@@ -36,7 +36,7 @@
 #' - \code{check.me()} - Will verify your current question, and maybe give some
 #' feedback if it is not correct
 #'
-#' - \code{next.question()} - Will proceed to the next question
+#' - \code{next_question()} - Will proceed to the next question
 #'
 #' - \code{bye()} - Saves your progress and quits - but you will not want to quit!
 #'

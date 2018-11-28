@@ -2,7 +2,7 @@
 % Please edit documentation in R/startup.R
 \name{instructions}
 \alias{instructions}
-\title{Display instructions}
+\title{Display bintestr instructions}
 \usage{
 instructions()
 }
