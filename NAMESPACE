@@ -2,6 +2,7 @@
 
 export(Question)
 export(QuestionTester)
-export(hello)
 export(instructions)
+export(is_defined)
 export(is_defined_with_value)
+export(status)

@@ -10,7 +10,7 @@ instructions()
 This help page lists the functions you can use to navigate this course.
 }
 \details{
-- \code{start()} - To proceed where you left last time (or at question 1 if
+- \code{start(question="first")} - To proceed where you left last time (or at question 1 if
  you just started).
 
 - \code{check.me()} - Will verify your current question, and maybe give some

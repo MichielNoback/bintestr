@@ -2,7 +2,7 @@
 % Please edit documentation in R/utils.R
 \name{is_defined_with_value}
 \alias{is_defined_with_value}
-\title{Test existance of a variable}
+\title{Test existance, class and value of a variable}
 \usage{
 is_defined_with_value(name, value, obj_classes = NULL,
   envir = .GlobalEnv)
@@ -22,7 +22,7 @@ with the given value, and with specified possible classes in the specified envir
 }
 \examples{
 x <- 42
-is_defined("x", 42) #TRUE
-is_defined("x", 42, c("numeric", "integer")) #TRUE
+is_defined_with_value("x", 42) #TRUE
+is_defined_with_value("x", 42, c("numeric", "integer")) #TRUE
 
 }

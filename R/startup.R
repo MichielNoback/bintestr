@@ -1,5 +1,6 @@
 .progress.file <- ".bintestr.Rdata"
 .userdata <- NULL
+.questions <- NULL
 
 .onLoad <- function(libname, pkgname) {
     if (file.exists(.progress.file)) {
@@ -10,7 +11,7 @@
         instructions()
     } else {
         message("no progress file found. Did you forget to set the working directory?")
-        answer <- readline(prompt="Type N if you are a New user or E to Exit: ")
+        answer <- readline(prompt="Type N if you are a New user or any other key to Exit: ")
         if (answer == "N") {
             .initUser()
             instructions()
@@ -22,7 +23,16 @@
 
 .initUser <- function() {
     username <- readline(prompt="What will be your name in this course? ")
-    userdata <- list("username" = username)
+    current_lesson <- "intro"
+    scores <- list()
+    scores[[current_lesson]] <- 0
+
+    userdata <<- list(
+        "username" = username,
+        "lesson" = current_lesson,
+        "question" = 1,
+        "scores" = scores)
+    .userdata <<- userdata
     save(userdata, file = .progress.file)
 }
 
@@ -48,5 +58,36 @@ instructions <- function() {
     help(instructions)
 }
 
+#' report status
+#'
+#' Reports the status of the current registered lessons
+#'
+#' @export
+status <- function() {
+    message(paste0("status for user ", .userdata$username, ":"))
+    message(paste0("   your current lesson is: ", .userdata$lesson))
+    message(paste0("   your current question is: ", .userdata$question))
+    score <- .userdata$scores[[.userdata$lesson]]
+    message(paste0("   current score of this lesson is: ", score))
+}
 
+#' loads the lesson registered as current
+#'
+#' Loads the current lesson (or the one specified as argument)
+#'
+#' @export
+init_lesson <- function(lesson = "__current__", question = "__current__") {
+    lesson <- .userdata$lesson
+    question <- .userdata$question
+
+    lesson_function <- paste0("lesson_", lesson)
+
+    if(is_defined(lesson_function)) {
+        #calling the lesson will return a list of questions
+        .questions <<- get(lesson_function)()
+        print(paste0(length(questions), " found for this lesson"))
+    } else {
+        message(paste0("the requested lesson is not found: ", lesson))
+    }
+}
 
