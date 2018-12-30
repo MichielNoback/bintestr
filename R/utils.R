@@ -34,5 +34,5 @@ is_defined_with_value <- function(name, value, obj_classes=NULL, envir=.GlobalEn
 #'
 #' @export
 is_defined <- function(name, envir=.GlobalEnv) {
-    return(name %in% objects(envir = envir))
+    return(name %in% objects(envir=envir))
 }

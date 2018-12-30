@@ -1,3 +1,6 @@
+#' This is the intro lesson
+#'
+#' @export
 lesson_intro <- function() {
     t1 <- QuestionTester(
         function(x){is.character(x) && length(x)==1 && nchar(x)==5},
@@ -23,7 +26,7 @@ lesson_intro <- function() {
                    t2,
                    q_type="environment-eval",
                    hints=list("a variable called 'var' with value 44. Please...",
-                              "I suggest you don't quit your day job"))
+                              "I suggest you don't quit your day job yet"))
 
     list(q1, q2)
 }

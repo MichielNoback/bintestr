@@ -1,0 +1,49 @@
+---
+title: "Lesson1 - basics"
+author: "Michiel Noback"
+date: "12/19/2018"
+output: html_document
+---
+
+This R Markdown document contains exercises to accompany the course "Data analysis and visualization using R".  
+This document contains the exercises themselves plus (in most cases) a R code chunk to complete, correct or create.
+There are some code chucks here bounded with this line: `###### TEST CODE - DO NOT REMOVE OR EDIT #######`. These code chunks are used to give you feedback on the correctness of your implementations. Do not edit or remove these chunks (unless you hate feedback).
+For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Before Knitting this document, check if you have the devtools package installed, by typing `library(devtools)` in the console. If this fails, you need to install it by typing `install.packages("devtools")`. 
+
+----
+
+```{r setup, echo = FALSE, include = FALSE}
+################################################################
+## THIS IS SETUP CODE - DO NOT EDIT!!!                        ##
+## If this fails you may need to install the devtools package ##
+################################################################
+library(devtools)
+labelerURL <- "https://raw.githubusercontent.com/MichielNoback/R_data_analysis_and_visualization/master/exercises/labeler.R"
+source_url(labelerURL)
+labelMaker <- labeler()
+################################################################
+## END OF SETUP CODE                                          ##
+################################################################
+```
+
+
+
+# `r labelMaker$getSection()` Basic plotting
+
+

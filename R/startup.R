@@ -1,13 +1,13 @@
+## local progress file
 .progress.file <- ".bintestr.Rdata"
-.userdata <- NULL
-.questions <- NULL
+## cache for userdata stores username, progress, and questions
+.userdataEnv <- new.env()
 
 .onLoad <- function(libname, pkgname) {
     if (file.exists(.progress.file)) {
         load(.progress.file)
-        #message("loading your progress...")
         message(paste0("Welcome back, ", userdata$username, "!"))
-        .userdata <<- userdata
+        assign("userdata", userdata, envir=.userdataEnv)
         instructions()
     } else {
         message("no progress file found. Did you forget to set the working directory?")
@@ -16,7 +16,7 @@
             .initUser()
             instructions()
         } else {
-            detach(package:bintestr, character.only=TRUE)
+            detach(package:bintestr, unload=TRUE)
         }
     }
 }
@@ -27,12 +27,12 @@
     scores <- list()
     scores[[current_lesson]] <- 0
 
-    userdata <<- list(
+    userdata <- list(
         "username" = username,
         "lesson" = current_lesson,
         "question" = 1,
         "scores" = scores)
-    .userdata <<- userdata
+    assign("userdata", userdata, envir=.userdataEnv)
     save(userdata, file = .progress.file)
 }
 
@@ -40,15 +40,17 @@
 #'
 #' This help page lists the functions you can use to navigate this course.
 #'
-#' - \code{start()} - To proceed where you left last time (or at question 1 if
-#'  you just started).
+#' - \code{status()} - To see the your status in the current lesson.
+#'
+#' - \code{start_lesson()} - To proceed where you left last time (or start at question 1
+#' of lesson 1 if you just started).
 #'
 #' - \code{check.me()} - Will verify your current question, and maybe give some
 #' feedback if it is not correct
 #'
 #' - \code{next_question()} - Will proceed to the next question
 #'
-#' - \code{bye()} - Saves your progress and quits - but you will not want to quit!
+#' - \code{save_and_exit()} - Saves your progress and quits - but you will not want to quit!
 #'
 #' @export
 instructions <- function() {
@@ -64,10 +66,11 @@ instructions <- function() {
 #'
 #' @export
 status <- function() {
-    message(paste0("status for user ", .userdata$username, ":"))
-    message(paste0("   your current lesson is: ", .userdata$lesson))
-    message(paste0("   your current question is: ", .userdata$question))
-    score <- .userdata$scores[[.userdata$lesson]]
+    userdata <- get("userdata", envir = .userdataEnv)
+    message(paste0("status for user ", userdata$username, ":"))
+    message(paste0("   your current lesson is: ", userdata$lesson))
+    message(paste0("   your current question is: ", userdata$question))
+    score <- userdata$scores[[userdata$lesson]]
     message(paste0("   current score of this lesson is: ", score))
 }
 
@@ -76,18 +79,37 @@ status <- function() {
 #' Loads the current lesson (or the one specified as argument)
 #'
 #' @export
-init_lesson <- function(lesson = "__current__", question = "__current__") {
-    lesson <- .userdata$lesson
-    question <- .userdata$question
-
+start_lesson <- function(lesson = "__current__", question = "__current__") {
+    userdata <- get("userdata", envir = .userdataEnv)
+    lesson <- userdata$lesson
+    question <- userdata$question
     lesson_function <- paste0("lesson_", lesson)
-
-    if(is_defined(lesson_function)) {
-        #calling the lesson will return a list of questions
-        .questions <<- get(lesson_function)()
-        print(paste0(length(questions), " found for this lesson"))
+    if(lesson_function %in% ls("package:bintestr")) {
+        message(paste0("loading lesson ", lesson_function))
+        # calling the lesson will return a list of questions
+        questions <- get(lesson_function)()
+        assign("questions", questions, envir = .userdataEnv)
     } else {
         message(paste0("the requested lesson is not found: ", lesson))
     }
 }
 
+#' leaves the lesson
+#'
+#' Leaves the lesson and stores progress locally.
+#'
+#' @export
+save_and_exit <- function() {
+    answer <- readline(prompt="Sure you want to quit (y/n)? ")
+    if (answer == "y") {
+        userdata <- get("userdata", envir = .userdataEnv)
+        save(userdata, file = .progress.file)
+        status()
+        message("see you soon!")
+        detach(package:bintestr, unload=TRUE)
+    } else if (answer == "n") {
+        message("You changed your mind! Good luck proceeding")
+    } else {
+        message(paste0("option ", answer, " is not y/n"))
+    }
+}

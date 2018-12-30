@@ -10,13 +10,15 @@ instructions()
 This help page lists the functions you can use to navigate this course.
 }
 \details{
-- \code{start(question="first")} - To proceed where you left last time (or at question 1 if
- you just started).
+- \code{status()} - To see the your status in the current lesson.
+
+- \code{start_lesson()} - To proceed where you left last time (or start at question 1
+of lesson 1 if you just started).
 
 - \code{check.me()} - Will verify your current question, and maybe give some
 feedback if it is not correct
 
 - \code{next_question()} - Will proceed to the next question
 
-- \code{bye()} - Saves your progress and quits - but you will not want to quit!
+- \code{save_and_exit()} - Saves your progress and quits - but you will not want to quit!
 }
